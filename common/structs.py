@@ -1,7 +1,7 @@
 from dataclasses import asdict, dataclass
 from enum import Enum
 import re
-from typing import List, Literal, Union
+from typing import List
 
 
 def normalizePronunciation(cherokee: str):

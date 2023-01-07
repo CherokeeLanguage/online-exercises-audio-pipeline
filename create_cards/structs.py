@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from pathlib import Path
 import json
-from typing import Optional, Union
+from typing import Union
 
 from common.structs import PhoneticOrthography
 

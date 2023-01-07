@@ -4,11 +4,5 @@
   "terms": "Living Phrases.terms.csv",
   "collection_title": "Living phrases",
   "collection_id": "jw-living-phrases",
-  "phonetic_orthography": "WEBSTER",
-  "credits": [
-    {
-      "role": "Author",
-      "name": "JW Webster"
-    }
-  ]
+  "phonetic_orthography": "WEBSTER"
 }
