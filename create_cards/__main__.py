@@ -103,7 +103,8 @@ def match_to_real_term(
         real_terms,
         key=lambda card: trigram_similarity(
             minify_pronounce(card.cherokee), chr.lower()
-        ),
+        )
+        + trigram_similarity(card.english.lower(), en.lower()),
         reverse=True,
     )[0]
 
