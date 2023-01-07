@@ -8,48 +8,253 @@ default		11590	12500	910	make your bed
 default		13250	15940	2690	hnvga ganitli
 default		17430	18470	1040	change your bedding
 default		19557	22226	2669	tinedlinvya dikvhida
-default		22226	23297	1071	
 default		23297	25602	2305	I changed my sheets this morning
-default		25602	26564	962	
-default		26564	30691	4127	detsanetliyvna dikvhida kohi sinale
-default		30691	31694	1003	
-default		31694	32384	690	pillow
-default		32384	32947	563	
-default		32947	34016	1069	akwsdo
-default		34016	34659	643	
-default		34659	35656	997	go to sleep
-default		35656	36497	841	
-default		36497	37200	703	hwitlvna
-default		37200	38530	1330	
+default		26564	30630	4066	detsanetliyvna dikvhida kohi sinale
+default		31800	32330	530	pillow
+default		32970	33860	890	akwsdo
+default		34750	35656	906	go to sleep
+default		36570	37270	700	hwitlvna
 default		38530	41171	2641	go to sleep while in bed
-default		41171	41570	399	
-default		41570	42548	978	hitlvna
-default		42548	43728	1180	
-default		43728	44976	1248	how did you sleep
-default		44976	45699	723	
-default		45699	47367	1668	ositsu hitlvna
-default		47367	48181	814	
-default		48181	49252	1071	sheets
-default		49252	49612	360	
-default		49612	50799	1187	dikvhida
-default		50799	51504	705	
-default		51504	53521	2017	make your bed (alt)
-default		53521	55380	1859	tiyesdaisa
-default		55380	56032	652	
+default		41740	42548	808	hitlvna
+default		43850	44976	1126	how did you sleep
+default		45800	47367	1567	ositsu hitlvna
+default		48390	49140	750	sheets
+default		49760	50740	980	dikvhida
+default		51600	53370	1770	make your bed (alt)
+default		53920	55270	1350	tiyesdaisa
 default		56032	56829	797	blanket
-default		56829	58678	1849	unegvha
-default		58678	59520	842	
-default		59520	60914	1394	fold the blanket
-default		60914	64850	3936	unegvha hiyvgwadosiya
-default		64850	67248	2398	hand me another blanket
-default		67248	67809	561	
-default		67809	71143	3334	soi unegvhi diskinvsi
-default		71143	74116	2973	i slept for ten hours last night
-default		74116	80226	6110	skoh yutlilod tsitlvn usv tsigesv
-default		80226	82482	2256	how long did u sleep last night
-default		82482	86629	4147	hila igohid hitlvn nusv tsigesvi
-default		86629	90095	3466	how long did u sleep (immediate)
-default		90095	93389	3294	hila igohid hitlvna
-default		93389	95246	1857	when did you get up
-default		95246	97413	2167	hilayv hadida
-default		97413	99503	2090	what time did you get up yesterday
+default		57400	58600	1200	unegvha
+default		59760	60790	1030	fold the blanket
+default		61630	64730	3100	unegvha hiyvgwadosiya
+default		65660	67248	1588	hand me another blanket
+default		68050	70870	2820	soi unegvhi diskinvsi
+default		71810	74116	2306	i slept for ten hours last night
+default		74860	80000	5140	skoh yutlilod tsitlvn usv tsigesv
+default		80510	82320	1810	how long did u sleep last night
+default		83020	86470	3450	hila igohid hitlvn nusv tsigesvi
+default		87330	90030	2700	how long did u sleep (immediate)
+default		90530	93060	2530	hila igohid hitlvna
+default		93910	95110	1200	when did you get up
+default		95480	97300	1820	hilayv hadida
+default		97590	99503	1913	what time did you get up yesterday
+default		100216	104560	4344	hilayv tsadidvhe svhi tsigesvi
+default		105680	107630	1950	what time did you go to bed last night
+default		108350	113320	4970	hilayv witsansinei usv tsigesv
+default		114020	116220	2200	i went to bed a ten last night
+default		117130	123470	6340	sko tsatlielisv tsiwawansinvi usv tsigesv
+default		123750	125825	2075	i woke up at five this morning
+default		126280	132120	5840	hisgi tsigesv tsatlilisv tsagiyetsv kohi sinalei
+default		132690	133893	1203	he got in bed
+default		134610	135940	1330	tsiwuntsinvi
+default		136110	137426	1316	are you tired
+default		138050	139523	1473	detsayawegas
+default		140450	141660	1210	are you sleepy
+default		142640	143720	1080	hitlvsgas
+default		144630	146050	1420	im very tired
+default		146550	148030	1480	doyu dagiyaweg
+default		148590	149690	1100	turn off the light
+default		150750	153280	2530	hvtladv atsvsdi
+default		155180	156460	1280	turn on the light
+default		157980	159140	1160	hitsvsdvga
+default		160120	161390	1270	open the curtains
+default		162200	164760	2560	dihtoldvdi hisdui
+default		165450	166520	1070	close the curtains
+default		167630	171130	3500	dihtoldvdi dehisduhvga
+default		172310	172960	650	desk
+default		173610	175910	2300	gohwelodi gasgilo
+default		177140	178550	1410	hes sitting at the desk
+default		179370	182010	2640	gohwelodi gasgilo wuwotla
+default		182580	183810	1230	alarm clock
+default		184540	186167	1627	adahyesdisgi
+default		186810	188480	1670	the alarm is going off
+default		189050	194170	5120	watsi adahyesdisg unohyvga
+default		195250	197660	2410	my alarm goes off at 6 o'clock
+default		198160	205040	6880	watsi adahyesdisg awatseli sudal gesv uhnohyvgoi
+default		205590	207090	1500	whose alarm is going off
+default		208250	212930	4680	gag yuwats adahyesdisg
+default		213420	214470	1050	brush your teeth
+default		215200	217160	1960	dehindoga tinvgala
+default		218140	219540	1400	i brushed my teeth
+default		221840	225250	3410	gaginagalvhvi
+default		225830	227300	1470	i always brush my teeth
+default		228640	233080	4440	detsinadoga detsinvgalisgoi nigolv
+default		233660	236170	2510	im going to brush my teeth right now
+default		236880	241950	5070	detsanadohgv datsanvgalvl nogw tsigi
+default		242780	244960	2180	im leaving to go brush my teeth
+default		245840	249580	3740	detsinadohgv detsanvgalvega
+default		249990	251760	1770	did you brush your teeth this morning
+default		252930	257170	4240	dehinvgales dehindohga koh sinale
+default		257760	259830	2070	brush your teeth (later) after you eat
+default		260970	266160	5190	dehindohgv dehinvgalvhv halsdahnohnvi
+default		266750	268040	1290	i just took a bath
+default		269070	271350	2280	kila gadawoohnv
+default		271820	273280	1460	i need to take a bath
+default		274010	276030	2020	agwadawosdi nusdi
+default		276600	277480	880	bathtub
+default		278060	279210	1150	adawosdii
+default		279800	280340	540	toilet
+default		280920	282100	1180	tsuniksdiyi
+default		282510	283682	1172	toilet paper
+default		284210	285620	1410	disuhldohdi
+default		285930	286620	690	mirror
+default		287270	288440	1170	adakehdi
+default		289000	290760	1760	the mirror just broke
+default		291390	293460	2070	adakehdi ayogi
+default		293990	295430	1440	the mirror fogged up
+default		296090	299340	3250	adakehdi ukahadv
+default		299810	301800	1990	the mirror fogged up in the past
+default		302560	305990	3430	adakehdi ukahatanei
+default		306730	309200	2470	his/her reflection
+default		309800	311070	1270	udayvltvi
+default		311420	312370	950	he's shaving
+default		313170	314400	1230	asdoyea
+default		316130	319150	3020	he or she is shaving his or her legs
+default		319940	322850	2910	diganvsgen dasdoyea
+default		323280	324410	1130	im gonna shave
+default		325390	326760	1370	dagalisdoyei
+default		327200	328830	1630	i just now shaved
+default		329810	331390	1580	galisdoyeohnv
+default		332170	334140	1970	he or she is in the bathroom
+default		335310	338350	3040	doya tsunedasdi wayav
+default		339310	339660	350	soap
+default		340420	341080	660	ohla
+default		341790	342740	950	shampoo
+default		343650	344940	1290	asduhldohdi
+default		345770	346870	1100	wash your hands
+default		347500	348460	960	tasuli
+default		349140	350380	1240	wash your face
+default		350730	351890	1160	hagvsgwotsa
+default		353240	354340	1100	wash your hair
+default		354900	356030	1130	halsduli
+default		356500	357500	1000	wash your feet
+default		358680	360410	1730	tadanvsulilotsv
+default		360970	363320	2350	don't forget to wash behind your ears
+default		364250	370610	6360	hesdi tsvkewus ditsanvgaldi tileni ohndidla
+default		372180	375580	3400	hes washing his hands
+default		375980	377170	1190	dasulea
+default		377900	379640	1740	im washing my hands
+default		380120	381700	1580	degasulea
+default		382200	385420	3220	hes washing his hair or shes washing her hair
+default		386070	387400	1330	alsdulea
+default		388170	389840	1670	im washing my face
+default		390390	391650	1260	gagvsgwoa
+default		392200	394660	2460	i didn't forget to wash behind my ears
+default		395110	401710	6600	tla yagwvkewat diganvgahlti ditsileni ohndidla
+default		402360	403170	810	toothbrush
+default		404170	407580	3410	dvgahndogv diganvgahldohdi
+default		408190	409160	970	toothpaste
+default		410030	414520	4490	dvgahndogv diganvgahldohdi ohla
+default		415090	416110	1020	chop them
+default		416950	418060	1110	tisgwalvya
+default		418970	420800	1830	he or she is chopping them
+default		421770	422820	1050	digvhaluya
+default		423420	424880	1460	peel the potatoes
+default		425660	427180	1520	nun tinegala
+default		427910	428800	890	pour it in
+default		429430	430330	900	hidliga
+default		431010	432400	1390	it needs more salt
+default		433050	435740	2690	amadv galuloga
+default		436650	438100	1450	the water is boiling
+default		438310	440650	2340	ama ahlidlia
+default		441680	444000	2320	do you want me to put the potatoes in the water
+default		445440	448000	2560	dochilanitsu nuna
+default		448430	449890	1460	I'm boiling the water
+default		450890	452400	1510	am tsitehdiha
+default		452920	455510	2590	because that's the only thing i know how to cook
+default		456300	459890	3590	sgwudv tsigata agwanisdohdiyi
+default		460710	462410	1700	it smells really good
+default		462860	464350	1490	doyu osd asvga
+default		465070	466240	1170	what is that smell
+default		466920	468720	1800	do usd natsasvga
+default		469280	470670	1390	what does it smell like
+default		471320	473850	2530	do usd elisdi asvga
+default		474310	475710	1400	it smells like apples
+default		476350	479750	3400	svkto elisd gawsvga
+default		480460	481790	1330	what did you put in this
+default		483700	485100	1400	do usd hitlvga
+default		487178	488400	1222	what did you mix in it
+default		489330	490740	1410	do usd hasuyvga
+default		491780	493890	2110	i put onions and tomatoes in it
+default		494610	499310	4700	svgi tamatlihno detsitlvga
+default		499990	500790	800	pantry
+default		501880	503100	1220	atlanvdi
+default		503900	504960	1060	refridgerator
+default		505690	507430	1740	ahlvdladisdohdiyi
+default		508290	510700	2410	can you get the eggs out the refridgerator
+default		511530	516080	4550	elwke tsuweg yidehilagi ahyvdladisdohdiyi
+default		516570	518540	1970	put this back in the refridgerator
+default		519170	523760	4590	hiahnv hwigidlvga ahyvdladisdohdiyi
+default		524680	526750	2070	i have to put the leftovers away
+default		527350	530240	2890	utiyvn datsisgwangotahni
+default		530600	532240	1640	can you help me with the dishes
+default		533100	537049	3949	elwke yiksdel digvdiyevi
+default		537240	539870	2630	can you help her/him with the dishes
+default		540630	544680	4050	eliwke hyisdela degvdiyesdvi
+default		545190	546910	1720	he just cleaned the counter
+default		547730	550780	3050	ahyatanala ganvgala
+default		551420	553620	2200	i just broke my favorite plate
+default		554500	558660	4160	wagilvgwdv teldo tsiyosda
+default		559350	560480	1130	hand me a cup
+default		561190	564170	2980	ulisgwidi eskvsi
+default		564810	566500	1690	do you want anything to drink
+default		567170	569490	2320	gohusdis tsaduli tsaditasdi
+default		569790	571110	1320	I want some coffee
+default		571880	573320	1440	kahwi awaduliha
+default		574110	576420	2310	i like tea better than coffee
+default		577090	582060	4970	tsayi utli nagilvgwd kahwi nigesvi
+default		582970	584480	1510	hand me the cutting board
+default		585170	588830	3660	diskidis nav gahuluwsdiyi
+default		589540	590730	1190	hand me a knife
+default		592410	594470	2060	hayesdi diskidisi
+default		595320	596450	1130	toast the bread
+default		597350	599670	2320	hisdagayhda gadui
+default		600490	602210	1720	shes buttering the toast
+default		602920	607480	4560	gotlvna ganvliyea gadu asdagaytanvi
+default		608210	609470	1260	do you want butter on it?
+default		610250	612970	2720	tsadulis gotlvna ganvliyeda
+default		613690	615330	1640	do you want butter on the toast
+default		616150	621630	5480	tsadulis gotlvna ganvliyeda gadu asdagaytanvi
+default		622300	624190	1890	im gonna empty the dishwasher
+default		625210	628460	3250	digvdiyesgi datsilesvhni
+default		629800	631250	1450	empty the dishwasher
+default		632390	637120	4730	nigad tilesvhvga digvdiyesgi
+default		638190	640480	2290	he or she is loading the dishwasher
+default		641280	644210	2930	digvdiyesgi gatlvnvsga
+default		645250	647760	2510	I always empty the dishwasher in the morning
+default		648190	653610	5420	nigad detsilesvsgo digvdilesdisg sunalei
+default		654480	655810	1330	do you want me to make coffee
+default		657600	659420	1820	dagotlvnike kahwi
+default		661260	663470	2210	you want me to make coffee (alt)
+default		664670	667660	2990	kahwis agwotlvhdi tsaduliha
+default		668120	669680	1560	whats wrong w/ the coffee pot
+default		670420	673040	2620	do usdtahnv kahw atlisdohdi
+default		673660	676180	2520	i think its broken ill have to buy a new one
+default		677280	684880	7600	uyotsvdv gelia atsedv ase akiwahisdi gesesdi
+default		685620	686930	1310	whose dishes are those
+default		687200	689440	2240	gag tsutseli ditelidoi
+default		690250	691940	1690	im going to watch tv
+default		692840	696590	3750	adeyvltvsdi datsigatostahni
+default		697200	698660	1460	do you want to go watch something
+default		699410	702660	3250	tsadulis guhsdi higatosdohdiyi
+default		703170	704150	980	what are you reading
+default		704680	706810	2130	do usdi higoliyea
+default		707120	709720	2600	i read 15 pages for school today
+default		710190	717080	6890	skigadu dugandadv detsigoliyev tsundelhgwasdi ugvwathli
+default		718110	720100	1990	how many pages have you read
+default		720710	723660	2950	hila dugandadv ditsagoliyeda
+default		724790	726440	1650	he's under a blanket
+default		727190	730060	2870	unegvha udutlvdi
+default		730900	732830	1930	he or she is comfortable
+default		733450	734790	1340	osd udanta
+default		735730	738050	2320	he or she is sitting on the couch
+default		738570	740910	2340	gasgilogi uwotlv
+default		741780	743730	1950	he or she is laying on the couch
+default		744090	745800	1710	gasgilogi gahnga
+default		746090	746880	790	porch
+default		747570	748720	1150	doyidlvi
+default		749510	752110	2600	he or she is patching a pair of pants
+default		752730	755200	2470	gastlvsga asulo
+default		756070	757650	1580	he or she is sewing
+default		758580	759670	1090	gayewsga
+default		760660	761700	1040	living room
+default		762210	763360	1150	ayvsdiyi
