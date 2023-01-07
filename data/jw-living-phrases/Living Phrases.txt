@@ -1,0 +1,55 @@
+default		690	1197	507	dirty
+default		1880	2791	911	gadaha
+default		4090	4700	610	bedroom
+default		5710	7520	1810	asindi kanvsula
+default		8770	9200	430	bed
+default		9660	10482	822	ganitli
+default		11590	12500	910	make your bed
+default		13250	15940	2690	hnvga ganitli
+default		17430	18470	1040	change your bedding
+default		19557	22226	2669	tinedlinvya dikvhida
+default		22226	23297	1071	
+default		23297	25602	2305	I changed my sheets this morning
+default		25602	26564	962	
+default		26564	30691	4127	detsanetliyvna dikvhida kohi sinale
+default		30691	31694	1003	
+default		31694	32384	690	pillow
+default		32384	32947	563	
+default		32947	34016	1069	akwsdo
+default		34016	34659	643	
+default		34659	35656	997	go to sleep
+default		35656	36497	841	
+default		36497	37200	703	hwitlvna
+default		37200	38530	1330	
+default		38530	41171	2641	go to sleep while in bed
+default		41171	41570	399	
+default		41570	42548	978	hitlvna
+default		42548	43728	1180	
+default		43728	44976	1248	how did you sleep
+default		44976	45699	723	
+default		45699	47367	1668	ositsu hitlvna
+default		47367	48181	814	
+default		48181	49252	1071	sheets
+default		49252	49612	360	
+default		49612	50799	1187	dikvhida
+default		50799	51504	705	
+default		51504	53521	2017	make your bed (alt)
+default		53521	55380	1859	tiyesdaisa
+default		55380	56032	652	
+default		56032	56829	797	blanket
+default		56829	58678	1849	unegvha
+default		58678	59520	842	
+default		59520	60914	1394	fold the blanket
+default		60914	64850	3936	unegvha hiyvgwadosiya
+default		64850	67248	2398	hand me another blanket
+default		67248	67809	561	
+default		67809	71143	3334	soi unegvhi diskinvsi
+default		71143	74116	2973	i slept for ten hours last night
+default		74116	80226	6110	skoh yutlilod tsitlvn usv tsigesv
+default		80226	82482	2256	how long did u sleep last night
+default		82482	86629	4147	hila igohid hitlvn nusv tsigesvi
+default		86629	90095	3466	how long did u sleep (immediate)
+default		90095	93389	3294	hila igohid hitlvna
+default		93389	95246	1857	when did you get up
+default		95246	97413	2167	hilayv hadida
+default		97413	99503	2090	what time did you get up yesterday

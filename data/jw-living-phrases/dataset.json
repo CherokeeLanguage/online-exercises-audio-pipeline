@@ -1,0 +1,13 @@
+{
+  "audio_source": "Living Phrases.wav",
+  "annotations": "Living Phrases.txt",
+  "terms": "Living Phrases.terms.csv",
+  "collection_title": "Living phrases",
+  "collection_id": "jw-living-phrases",
+  "credits": [
+    {
+      "role": "Author",
+      "name": "JW Webster"
+    }
+  ]
+}

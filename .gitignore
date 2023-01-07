@@ -1,0 +1,6 @@
+# misc
+.DS_Store
+__pycache__
+
+# too large for github
+data/jw-living-phrases/Living Phrases.wav
