@@ -86,7 +86,7 @@ def trigram_similarity(a, b):
 def minify_pronounce(rich: str):
     return (
         re.sub(
-            r"[\:ɂ¹²³⁴,]",
+            r"[\:ɂ¹²³⁴]|(.,)",  # JW uses commas for drop-vowels
             "",
             rich,
         )
