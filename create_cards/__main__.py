@@ -6,12 +6,11 @@ from sys import argv
 from pathlib import Path
 from csv import DictReader
 from dataclasses import asdict, dataclass
-from typing import Generator, Iterable, List, Tuple, TypeVar
+from typing import Iterable, List, Tuple, TypeVar
 
 from pydub import AudioSegment
 from pydub.effects import normalize
 from pydub.playback import play
-import unidecode
 
 from .structs import DatasetMetadata
 from common.structs import OnlineExercisesCard, VocabCollection, VocabSet
@@ -42,9 +41,9 @@ def read_annotations_tsv(annotation_path: Path):
             )
 
 
-def read_terms(terms_path: Path):
+def read_terms_for_dataset(dataset: DatasetMetadata):
     terms: List[OnlineExercisesCard] = []
-    with open(terms_path) as f:
+    with open(dataset.terms) as f:
         for row in DictReader(
             f,
             ["english", "cherokee", "syllabary"],
@@ -61,6 +60,7 @@ def read_terms(terms_path: Path):
                     cherokee_audio=[],
                     alternate_pronunciations=[],
                     alternate_syllabary=[],
+                    phoneticOrthography=dataset.phoneticOrthography,
                 )
             )
     return terms
@@ -140,7 +140,7 @@ def match_segments_and_extract_audio(dataset: DatasetMetadata) -> None:
     out_dir = dataset.folder / "split_audio"
     os.makedirs(out_dir, exist_ok=True)
 
-    real_terms = read_terms(dataset.terms)
+    real_terms = read_terms_for_dataset(dataset)
     print([t for t in real_terms if t.cherokee is None])
     for annotation_en, annotation_chr in iter_pairs(
         (
@@ -185,7 +185,7 @@ def match_segments_and_extract_audio(dataset: DatasetMetadata) -> None:
         #     break
 
     with open(dataset.folder / f"{dataset.collection_id}-cards.json", "w") as f:
-        json.dump([asdict(term) for term in real_terms], f, ensure_ascii=False)
+        json.dump([term.toDict() for term in real_terms], f, ensure_ascii=False)
 
     with open(dataset.folder / f"{dataset.collection_id}.json", "w") as f:
         json.dump(

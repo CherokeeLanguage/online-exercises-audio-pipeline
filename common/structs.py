@@ -1,6 +1,7 @@
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
+from enum import Enum
 import re
-from typing import List
+from typing import List, Literal, Union
 
 
 def normalizePronunciation(cherokee: str):
@@ -9,6 +10,11 @@ def normalizePronunciation(cherokee: str):
 
 def cleanSyllabary(syllabary: str):
     return syllabary.strip().upper()
+
+
+class PhoneticOrthography(Enum):
+    MCO = "MCO"
+    WEBSTER = "WEBSTER"
 
 
 @dataclass
@@ -22,6 +28,13 @@ class OnlineExercisesCard:
 
     english: str
     english_audio: List[str]
+
+    phoneticOrthography: PhoneticOrthography
+
+    def toDict(self):
+        d = asdict(self)
+        d["phoneticOrthography"] = self.phoneticOrthography.name
+        return d
 
 
 @dataclass

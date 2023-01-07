@@ -1,7 +1,9 @@
 from dataclasses import dataclass
 from pathlib import Path
 import json
-from typing import Union
+from typing import Optional, Union
+
+from common.structs import PhoneticOrthography
 
 
 @dataclass
@@ -12,6 +14,7 @@ class DatasetMetadata:
     folder: Path
     collection_title: str
     collection_id: str
+    phoneticOrthography: PhoneticOrthography
 
     @staticmethod
     def from_file(path: Union[str, Path]):
@@ -28,4 +31,7 @@ class DatasetMetadata:
             folder=path.parent,
             collection_id=data["collection_id"],
             collection_title=data["collection_title"],
+            phoneticOrthography=PhoneticOrthography(
+                data.get("phonetic_orthography", None)
+            ),
         )
