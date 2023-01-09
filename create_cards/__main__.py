@@ -195,7 +195,7 @@ def match_segments_and_extract_audio(dataset: DatasetMetadata) -> None:
                     title=dataset.collection_title,
                     sets=[
                         VocabSet(
-                            id="all",
+                            id=f"{dataset.collection_id}:all",
                             title="All terms",
                             terms=[
                                 term.cherokee
