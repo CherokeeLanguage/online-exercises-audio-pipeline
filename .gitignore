@@ -4,3 +4,7 @@ __pycache__
 
 # too large for github
 data/jw-living-phrases/Living Phrases.wav
+
+# cache for English TTS 
+cache
+card_audio

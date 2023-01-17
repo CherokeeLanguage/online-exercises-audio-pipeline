@@ -49,11 +49,11 @@ class DatasetMetadata:
         return self.folder / "terms.new.csv"
 
     @property
-    def split_audio_dir(self):
-        return self.folder / "split_audio"
+    def audio_output_dir(self):
+        return self.folder / "card_audio"
 
     @property
-    def card_json(self):
+    def cards_json(self):
         return self.folder / f"{self.collection_id}-cards.json"
 
     @property

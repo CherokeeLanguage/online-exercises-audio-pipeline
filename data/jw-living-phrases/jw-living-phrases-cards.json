@@ -8,7 +8,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "dirty",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/dirty_Kendra_33797be57bc3b248fc5bfafd60af55a61787ce85.mp3",
+      "data/jw-living-phrases/card_audio/dirty_Joey_33797be57bc3b248fc5bfafd60af55a61787ce85.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -20,7 +23,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "bedroom",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/bedroom_Kendra_009e058c883c683e1330228851ecafe3265c8f51.mp3",
+      "data/jw-living-phrases/card_audio/bedroom_Joey_009e058c883c683e1330228851ecafe3265c8f51.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -32,7 +38,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "bed",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/bed_Kendra_fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3",
+      "data/jw-living-phrases/card_audio/bed_Joey_fefe2393a7fc8eafc6f15a3953f6102dfebf6d1a.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -44,7 +53,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Make your bed",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/make_your_bed_Kendra_13f5f19eeadc2884350d3a9ef8f8c0b628761b1a.mp3",
+      "data/jw-living-phrases/card_audio/make_your_bed_Joey_13f5f19eeadc2884350d3a9ef8f8c0b628761b1a.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -56,7 +68,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Change your sheets",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/change_your_sheets_Kendra_8ec89e7074c82ca396e389aea078bc9f5dec6981.mp3",
+      "data/jw-living-phrases/card_audio/change_your_sheets_Joey_8ec89e7074c82ca396e389aea078bc9f5dec6981.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -68,7 +83,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I changed my sheets this morning",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_changed_my_sheets_this_morning_Kendra_5517bbac2ea3b6ddeacf729ea5804f6bf076191f.mp3",
+      "data/jw-living-phrases/card_audio/i_changed_my_sheets_this_morning_Joey_5517bbac2ea3b6ddeacf729ea5804f6bf076191f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -80,7 +98,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "pillow",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/pillow_Kendra_81cebb9e8bd9c850804b994b991040dba12deefb.mp3",
+      "data/jw-living-phrases/card_audio/pillow_Joey_81cebb9e8bd9c850804b994b991040dba12deefb.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -92,7 +113,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Go to sleep",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/go_to_sleep_Kendra_820ce1c286b325641373a0409c73eace7de60ddf.mp3",
+      "data/jw-living-phrases/card_audio/go_to_sleep_Joey_820ce1c286b325641373a0409c73eace7de60ddf.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -104,7 +128,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Go to sleep (while in bed)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/go_to_sleep_while_in_bed_Kendra_5748627d6aea2bd218315735b2f3ebe88f091ae9.mp3",
+      "data/jw-living-phrases/card_audio/go_to_sleep_while_in_bed_Joey_5748627d6aea2bd218315735b2f3ebe88f091ae9.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -116,7 +143,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "How did you sleep",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/how_did_you_sleep_Kendra_25146b403535045e64da5f9c0733417127a326de.mp3",
+      "data/jw-living-phrases/card_audio/how_did_you_sleep_Joey_25146b403535045e64da5f9c0733417127a326de.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -128,7 +158,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "sheets",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/sheets_Kendra_76de1d190d548ca63deabcba0dca91e1736758da.mp3",
+      "data/jw-living-phrases/card_audio/sheets_Joey_76de1d190d548ca63deabcba0dca91e1736758da.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -140,7 +173,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "blanket",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/blanket_Kendra_607919897b0768090bbf4096cd5c62f2086bdb9b.mp3",
+      "data/jw-living-phrases/card_audio/blanket_Joey_607919897b0768090bbf4096cd5c62f2086bdb9b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -152,7 +188,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Fold the blanket",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/fold_the_blanket_Kendra_2445817a987d881664f4c9201dc8cc6c94432382.mp3",
+      "data/jw-living-phrases/card_audio/fold_the_blanket_Joey_2445817a987d881664f4c9201dc8cc6c94432382.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -164,7 +203,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Get me another blanket",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/get_me_another_blanket_Kendra_3460d774a8375326cf31e3f28fd2ec45a15a1a15.mp3",
+      "data/jw-living-phrases/card_audio/get_me_another_blanket_Joey_3460d774a8375326cf31e3f28fd2ec45a15a1a15.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -176,7 +218,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I slept for ten hours last night",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_slept_for_ten_hours_last_night_Kendra_bc692dff394af23ba201a9ef7806d98d5c41a74c.mp3",
+      "data/jw-living-phrases/card_audio/i_slept_for_ten_hours_last_night_Joey_bc692dff394af23ba201a9ef7806d98d5c41a74c.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -188,7 +233,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "How long did you sleep last night?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/how_long_did_you_sleep_last_nigh_Kendra_b519b07a114713e2a9a313347aafa5760d3e8a6b.mp3",
+      "data/jw-living-phrases/card_audio/how_long_did_you_sleep_last_nigh_Joey_b519b07a114713e2a9a313347aafa5760d3e8a6b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -200,7 +248,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "How long did you sleep? (after waking)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/how_long_did_you_sleep_after_wak_Kendra_a9db27d3154936262a44b2da3ed6c91cc1f580a4.mp3",
+      "data/jw-living-phrases/card_audio/how_long_did_you_sleep_after_wak_Joey_a9db27d3154936262a44b2da3ed6c91cc1f580a4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -212,7 +263,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "When did you get up?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/when_did_you_get_up_Kendra_f0cb53295ed92f4ea952cca5092e6e6eb7c0b871.mp3",
+      "data/jw-living-phrases/card_audio/when_did_you_get_up_Joey_f0cb53295ed92f4ea952cca5092e6e6eb7c0b871.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -224,7 +278,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "When did you get up yesterday?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/when_did_you_get_up_yesterday_Kendra_24a0046b9e85aec4136651779e0d99f35f96980c.mp3",
+      "data/jw-living-phrases/card_audio/when_did_you_get_up_yesterday_Joey_24a0046b9e85aec4136651779e0d99f35f96980c.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -236,7 +293,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "When did you go to bed last night?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/when_did_you_go_to_bed_last_nigh_Kendra_3ba57a395ff92233b511c45dcfca55ec01827df8.mp3",
+      "data/jw-living-phrases/card_audio/when_did_you_go_to_bed_last_nigh_Joey_3ba57a395ff92233b511c45dcfca55ec01827df8.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -248,7 +308,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I woke up at five this morning",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_woke_up_at_five_this_morning_Kendra_0eaa75089e4887c6049b8f7ad5cb70eacd17f0a4.mp3",
+      "data/jw-living-phrases/card_audio/i_woke_up_at_five_this_morning_Joey_0eaa75089e4887c6049b8f7ad5cb70eacd17f0a4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -260,7 +323,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she got in bed (not sleeping yet)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_got_in_bed_not_sleepin_Kendra_73180e5a69c61642fed18b31d253f2b896516d5f.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_got_in_bed_not_sleepin_Joey_73180e5a69c61642fed18b31d253f2b896516d5f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -272,7 +338,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Are you tired?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/are_you_tired_Kendra_78d7ee4811263ec9dd67b836882bf56898468943.mp3",
+      "data/jw-living-phrases/card_audio/are_you_tired_Joey_78d7ee4811263ec9dd67b836882bf56898468943.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -284,7 +353,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Are you sleepy?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/are_you_sleepy_Kendra_205682fdf52e72827dae51f7cae9f4b94a26780b.mp3",
+      "data/jw-living-phrases/card_audio/are_you_sleepy_Joey_205682fdf52e72827dae51f7cae9f4b94a26780b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -296,7 +368,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m very tired",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_very_tired_Kendra_4ca383083d08f4e8dcfae382a317c0831711ab72.mp3",
+      "data/jw-living-phrases/card_audio/im_very_tired_Joey_4ca383083d08f4e8dcfae382a317c0831711ab72.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -308,7 +383,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Turn off the light̀",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/turn_off_the_light_Kendra_70ea8f84c5e2f5a85b677d8a66d3c26bc8b8131d.mp3",
+      "data/jw-living-phrases/card_audio/turn_off_the_light_Joey_70ea8f84c5e2f5a85b677d8a66d3c26bc8b8131d.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -320,7 +398,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Turn on the light",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/turn_on_the_light_Kendra_11a66785e3755e8d4b29a1d5f78d4723dcf2f649.mp3",
+      "data/jw-living-phrases/card_audio/turn_on_the_light_Joey_11a66785e3755e8d4b29a1d5f78d4723dcf2f649.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -332,7 +413,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Open the curtains",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/open_the_curtains_Kendra_905b0e9ec438589d996802696119a853ac8028a3.mp3",
+      "data/jw-living-phrases/card_audio/open_the_curtains_Joey_905b0e9ec438589d996802696119a853ac8028a3.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -344,7 +428,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Close the curtains",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/close_the_curtains_Kendra_d922198565bb78ac9c7b522cf37bb0d3557c351c.mp3",
+      "data/jw-living-phrases/card_audio/close_the_curtains_Joey_d922198565bb78ac9c7b522cf37bb0d3557c351c.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -356,7 +443,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "desk",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/desk_Kendra_46e7cfa080913f4dae18d802d041de7d664b10e2.mp3",
+      "data/jw-living-phrases/card_audio/desk_Joey_46e7cfa080913f4dae18d802d041de7d664b10e2.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -368,7 +458,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is sitting at the desk",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_sitting_at_the_desk_Kendra_d0108f373e255da61c31cd982d4053f454a20e40.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_sitting_at_the_desk_Joey_d0108f373e255da61c31cd982d4053f454a20e40.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -380,7 +473,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "alarm clock",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/alarm_clock_Kendra_9a9db2428cb3ded601788835fbf12341c93548fd.mp3",
+      "data/jw-living-phrases/card_audio/alarm_clock_Joey_9a9db2428cb3ded601788835fbf12341c93548fd.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -392,7 +488,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "The alarm is going off",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/the_alarm_is_going_off_Kendra_2ff5ee60a4c3e4d7afe0db23b843f05864b7a0bd.mp3",
+      "data/jw-living-phrases/card_audio/the_alarm_is_going_off_Joey_2ff5ee60a4c3e4d7afe0db23b843f05864b7a0bd.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -404,7 +503,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "My alarm goes off at six",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/my_alarm_goes_off_at_six_Kendra_c045932db3f56dcca6c425b11d5985f3653d2e38.mp3",
+      "data/jw-living-phrases/card_audio/my_alarm_goes_off_at_six_Joey_c045932db3f56dcca6c425b11d5985f3653d2e38.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -416,7 +518,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Whose alarm is going off?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/whose_alarm_is_going_off_Kendra_70f74d93eb230affdd5ed44161e7ee67656ba5ec.mp3",
+      "data/jw-living-phrases/card_audio/whose_alarm_is_going_off_Joey_70f74d93eb230affdd5ed44161e7ee67656ba5ec.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -428,7 +533,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Brush your teeth",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/brush_your_teeth_Kendra_596328006dc7227b5332019bcd920bcdadcaa9ec.mp3",
+      "data/jw-living-phrases/card_audio/brush_your_teeth_Joey_596328006dc7227b5332019bcd920bcdadcaa9ec.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -440,7 +548,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I brushed my teeth (in the past)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_brushed_my_teeth_in_the_past_Kendra_346457cfe2a42766b2456efe2b9c49cebcabf855.mp3",
+      "data/jw-living-phrases/card_audio/i_brushed_my_teeth_in_the_past_Joey_346457cfe2a42766b2456efe2b9c49cebcabf855.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -452,7 +563,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I always brush my teeth",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_always_brush_my_teeth_Kendra_56d2263c8241c18732116f906afb680ffa352b17.mp3",
+      "data/jw-living-phrases/card_audio/i_always_brush_my_teeth_Joey_56d2263c8241c18732116f906afb680ffa352b17.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -464,7 +578,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m going to brush my teeth (now)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_going_to_brush_my_teeth_now_Kendra_c06d3f2fec46544ef2fbbc1574a004a90d37b9a3.mp3",
+      "data/jw-living-phrases/card_audio/im_going_to_brush_my_teeth_now_Joey_c06d3f2fec46544ef2fbbc1574a004a90d37b9a3.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -476,7 +593,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m leaving to go brush my teeth",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_leaving_to_go_brush_my_teeth_Kendra_672a555275c5565e9a6d3f957687d29ea18d2f08.mp3",
+      "data/jw-living-phrases/card_audio/im_leaving_to_go_brush_my_teeth_Joey_672a555275c5565e9a6d3f957687d29ea18d2f08.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -488,7 +608,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Did you brush your teeth this morning?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/did_you_brush_your_teeth_this_mo_Kendra_4862a79a1f859efd9c82fc825b89dd197bba056b.mp3",
+      "data/jw-living-phrases/card_audio/did_you_brush_your_teeth_this_mo_Joey_4862a79a1f859efd9c82fc825b89dd197bba056b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -500,7 +623,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Brush your teeth later after you eat",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/brush_your_teeth_later_after_you_Kendra_b93cc818adb6cb9fd3f8a0efd227fc6b22c29226.mp3",
+      "data/jw-living-phrases/card_audio/brush_your_teeth_later_after_you_Joey_b93cc818adb6cb9fd3f8a0efd227fc6b22c29226.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -512,7 +638,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I just took a bath",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_just_took_a_bath_Kendra_34c9971c1255b71352797aa9a2b7c60f4500916e.mp3",
+      "data/jw-living-phrases/card_audio/i_just_took_a_bath_Joey_34c9971c1255b71352797aa9a2b7c60f4500916e.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -524,7 +653,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I need to take a bath",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_need_to_take_a_bath_Kendra_347aeb829fc71ea69d3125a159311684da2014b1.mp3",
+      "data/jw-living-phrases/card_audio/i_need_to_take_a_bath_Joey_347aeb829fc71ea69d3125a159311684da2014b1.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -536,7 +668,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "bathtub",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/bathtub_Kendra_37d00e850428ca26bd5ff7b11c1cc00d3def873f.mp3",
+      "data/jw-living-phrases/card_audio/bathtub_Joey_37d00e850428ca26bd5ff7b11c1cc00d3def873f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -548,7 +683,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "toilet",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/toilet_Kendra_ea092410a2a14707b99ccbd29cda6d705e2fd3f2.mp3",
+      "data/jw-living-phrases/card_audio/toilet_Joey_ea092410a2a14707b99ccbd29cda6d705e2fd3f2.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -560,7 +698,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "toilet paper",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/toilet_paper_Kendra_01bfdd2b9a210059e93213cd25a84d9a56940ed0.mp3",
+      "data/jw-living-phrases/card_audio/toilet_paper_Joey_01bfdd2b9a210059e93213cd25a84d9a56940ed0.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -572,7 +713,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "mirror",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/mirror_Kendra_ffff80d25a2651a57130b409d7bf0e751e29b578.mp3",
+      "data/jw-living-phrases/card_audio/mirror_Joey_ffff80d25a2651a57130b409d7bf0e751e29b578.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -584,7 +728,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "The mirrow just broke",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/the_mirrow_just_broke_Kendra_a27783fe6baa471a4ffafcea09601a2c32fa0201.mp3",
+      "data/jw-living-phrases/card_audio/the_mirrow_just_broke_Joey_a27783fe6baa471a4ffafcea09601a2c32fa0201.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -596,7 +743,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "The mirror is fogged up",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/the_mirror_is_fogged_up_Kendra_bb887f03e613bcb4ff728b3b5ac34dd60977a878.mp3",
+      "data/jw-living-phrases/card_audio/the_mirror_is_fogged_up_Joey_bb887f03e613bcb4ff728b3b5ac34dd60977a878.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -608,7 +758,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "his or her reflection",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/his_or_her_reflection_Kendra_81ab95e1a29af120fb5aec5e700d90652432c41b.mp3",
+      "data/jw-living-phrases/card_audio/his_or_her_reflection_Joey_81ab95e1a29af120fb5aec5e700d90652432c41b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -620,7 +773,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "he or she is shaving",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_shaving_Kendra_8236906359baec80f21b31144fadd65cccb6daa4.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_shaving_Joey_8236906359baec80f21b31144fadd65cccb6daa4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -632,7 +788,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "he or she is shaving his or her legs",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_shaving_his_or_her__Kendra_0261e164ddd13c7c9afb3e006e94bfa6c9e97e9f.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_shaving_his_or_her__Joey_0261e164ddd13c7c9afb3e006e94bfa6c9e97e9f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -644,7 +803,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m going to shave",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_going_to_shave_Kendra_e3991bd99c9c47a906a71a5a2389692e7513f2fb.mp3",
+      "data/jw-living-phrases/card_audio/im_going_to_shave_Joey_e3991bd99c9c47a906a71a5a2389692e7513f2fb.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -656,7 +818,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I just now shaved",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_just_now_shaved_Kendra_005eafa21e6c7b59c6a1f03ac35cd05088c72cce.mp3",
+      "data/jw-living-phrases/card_audio/i_just_now_shaved_Joey_005eafa21e6c7b59c6a1f03ac35cd05088c72cce.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -668,7 +833,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is in the bathroom",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_in_the_bathroom_Kendra_767699832a37baa2772965cd54c7d8218ab2fbf1.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_in_the_bathroom_Joey_767699832a37baa2772965cd54c7d8218ab2fbf1.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -680,7 +848,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "soap",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/soap_Kendra_f6c1ab81815f784f6b910c1e4b08aaeeb145dd9e.mp3",
+      "data/jw-living-phrases/card_audio/soap_Joey_f6c1ab81815f784f6b910c1e4b08aaeeb145dd9e.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -692,7 +863,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "shampoo",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/shampoo_Kendra_3906b34397ea49caba530fd8667b952f83451e40.mp3",
+      "data/jw-living-phrases/card_audio/shampoo_Joey_3906b34397ea49caba530fd8667b952f83451e40.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -704,7 +878,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Wash your hands",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/wash_your_hands_Kendra_7087a6d73c85251f28c0e610f8b6102fdafa580a.mp3",
+      "data/jw-living-phrases/card_audio/wash_your_hands_Joey_7087a6d73c85251f28c0e610f8b6102fdafa580a.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -716,7 +893,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Wash your face",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/wash_your_face_Kendra_8945c16582d869e5932dd2dc1236be60bc0cb6cf.mp3",
+      "data/jw-living-phrases/card_audio/wash_your_face_Joey_8945c16582d869e5932dd2dc1236be60bc0cb6cf.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -728,7 +908,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Wash your hair",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/wash_your_hair_Kendra_56beb1aedea67126d356e3c552a15450b7597c2f.mp3",
+      "data/jw-living-phrases/card_audio/wash_your_hair_Joey_56beb1aedea67126d356e3c552a15450b7597c2f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -740,7 +923,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Wash your feet",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/wash_your_feet_Kendra_71fe2deb85ac70827d55acd01b61746d69ed1704.mp3",
+      "data/jw-living-phrases/card_audio/wash_your_feet_Joey_71fe2deb85ac70827d55acd01b61746d69ed1704.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -752,7 +938,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Don’t forget to wash behind your ears",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/dont_forget_to_wash_behind_your__Kendra_99d6097d9aa9e1157ef030da4b2f81500cbbf119.mp3",
+      "data/jw-living-phrases/card_audio/dont_forget_to_wash_behind_your__Joey_99d6097d9aa9e1157ef030da4b2f81500cbbf119.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -764,7 +953,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is washing his or her hands",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_washing_his_or_her__Kendra_7b36d95dd34aa44f0ee356d691f2cd235bdc3ee4.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_washing_his_or_her__Joey_7b36d95dd34aa44f0ee356d691f2cd235bdc3ee4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -776,7 +968,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m washing my hands",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_washing_my_hands_Kendra_c4e86db0d91e675b344e8bde3bcd7a3815c54b3c.mp3",
+      "data/jw-living-phrases/card_audio/im_washing_my_hands_Joey_c4e86db0d91e675b344e8bde3bcd7a3815c54b3c.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -788,7 +983,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is washing his or her hair",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_washing_his_or_her__Kendra_7c4edb19ee1933a9818214ae6eb44807e16bcca8.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_washing_his_or_her__Joey_7c4edb19ee1933a9818214ae6eb44807e16bcca8.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -800,7 +998,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m washing my face",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_washing_my_face_Kendra_e195ef5ea5842486d33c32f7481952883b638211.mp3",
+      "data/jw-living-phrases/card_audio/im_washing_my_face_Joey_e195ef5ea5842486d33c32f7481952883b638211.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -812,7 +1013,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I didn’t forget to wash behind my ears",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_didnt_forget_to_wash_behind_my_Kendra_842895829103b2b42012911e165683aa702cb61b.mp3",
+      "data/jw-living-phrases/card_audio/i_didnt_forget_to_wash_behind_my_Joey_842895829103b2b42012911e165683aa702cb61b.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -824,7 +1028,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "toothbrush",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/toothbrush_Kendra_c3cc7c6c532c8a0e28aeb33e0f9813b3ba1be65f.mp3",
+      "data/jw-living-phrases/card_audio/toothbrush_Joey_c3cc7c6c532c8a0e28aeb33e0f9813b3ba1be65f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -836,7 +1043,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "toothpaste",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/toothpaste_Kendra_22ef5ba4d44a78205c392980e5c722f2f2f88727.mp3",
+      "data/jw-living-phrases/card_audio/toothpaste_Joey_22ef5ba4d44a78205c392980e5c722f2f2f88727.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -848,7 +1058,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "You chop them (something long)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/you_chop_them_something_long_Kendra_c60ec0248a88b6389ec0794e91aee442a03eb048.mp3",
+      "data/jw-living-phrases/card_audio/you_chop_them_something_long_Joey_c60ec0248a88b6389ec0794e91aee442a03eb048.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -860,7 +1073,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He is chopping them (something flexible)",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_is_chopping_them_something_fl_Kendra_b739e409d2c8b628ec2ced01899a9289a1a5c2cc.mp3",
+      "data/jw-living-phrases/card_audio/he_is_chopping_them_something_fl_Joey_b739e409d2c8b628ec2ced01899a9289a1a5c2cc.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -872,7 +1088,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Pour it in",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/pour_it_in_Kendra_4ea9a8431019c7ccdd873f6bb4fb312359df6362.mp3",
+      "data/jw-living-phrases/card_audio/pour_it_in_Joey_4ea9a8431019c7ccdd873f6bb4fb312359df6362.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -884,7 +1103,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Peel the potatoes",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/peel_the_potatoes_Kendra_218853baf5aa967dd65357cb1b7fe14cc933507f.mp3",
+      "data/jw-living-phrases/card_audio/peel_the_potatoes_Joey_218853baf5aa967dd65357cb1b7fe14cc933507f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -896,7 +1118,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Do you want me to put the potatoes in?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/do_you_want_me_to_put_the_potato_Kendra_d2c5f885d503aa481e0478134a4563c8f06f3c26.mp3",
+      "data/jw-living-phrases/card_audio/do_you_want_me_to_put_the_potato_Joey_d2c5f885d503aa481e0478134a4563c8f06f3c26.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -908,7 +1133,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "This needs more salt",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/this_needs_more_salt_Kendra_5db4a9810cb7d9c664d36b59d6395546987eebb9.mp3",
+      "data/jw-living-phrases/card_audio/this_needs_more_salt_Joey_5db4a9810cb7d9c664d36b59d6395546987eebb9.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -920,7 +1148,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I'm boiling the water",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_boiling_the_water_Kendra_e35faa6ed7b351dc3ea86c9ccbf45d209844e3ac.mp3",
+      "data/jw-living-phrases/card_audio/im_boiling_the_water_Joey_e35faa6ed7b351dc3ea86c9ccbf45d209844e3ac.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -932,7 +1163,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Because that’s the only thing I know how to cook",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/because_thats_the_only_thing_i_k_Kendra_845878dede1202209550344f3a50e879eca88d38.mp3",
+      "data/jw-living-phrases/card_audio/because_thats_the_only_thing_i_k_Joey_845878dede1202209550344f3a50e879eca88d38.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -944,7 +1178,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "It smells really good",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/it_smells_really_good_Kendra_9ab55f52d85859bae2817fa3074e6ae4d60e1a93.mp3",
+      "data/jw-living-phrases/card_audio/it_smells_really_good_Joey_9ab55f52d85859bae2817fa3074e6ae4d60e1a93.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -956,7 +1193,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What is that smell?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/what_is_that_smell_Kendra_bd71a6b3a9e504952245c2b47942a71ac9d7f58a.mp3",
+      "data/jw-living-phrases/card_audio/what_is_that_smell_Joey_bd71a6b3a9e504952245c2b47942a71ac9d7f58a.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -968,7 +1208,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What does it smell like?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/what_does_it_smell_like_Kendra_784efef15917eb8f7e9ade4f1dd0b01ccd4c7113.mp3",
+      "data/jw-living-phrases/card_audio/what_does_it_smell_like_Joey_784efef15917eb8f7e9ade4f1dd0b01ccd4c7113.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -980,7 +1223,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "It smells like apples",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/it_smells_like_apples_Kendra_84af46f3945235937c35730bf99bf0598cc7d943.mp3",
+      "data/jw-living-phrases/card_audio/it_smells_like_apples_Joey_84af46f3945235937c35730bf99bf0598cc7d943.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -992,7 +1238,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What did you put in this?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/what_did_you_put_in_this_Kendra_b74f35394a1cb55157ec0f2d6ae69fd822cf8fde.mp3",
+      "data/jw-living-phrases/card_audio/what_did_you_put_in_this_Joey_b74f35394a1cb55157ec0f2d6ae69fd822cf8fde.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1004,7 +1253,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What did you mix in this?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/what_did_you_mix_in_this_Kendra_346b25ee14493965eeb0e3b2a8ab45477bc66adb.mp3",
+      "data/jw-living-phrases/card_audio/what_did_you_mix_in_this_Joey_346b25ee14493965eeb0e3b2a8ab45477bc66adb.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1016,7 +1268,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I put onions and tomatoes in it",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_put_onions_and_tomatoes_in_it_Kendra_355c87935d417494efbadb2326ea0ecfaff00a7d.mp3",
+      "data/jw-living-phrases/card_audio/i_put_onions_and_tomatoes_in_it_Joey_355c87935d417494efbadb2326ea0ecfaff00a7d.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1028,7 +1283,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "pantry",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/pantry_Kendra_d2ea75fb11b48b53da2a9f32c1656b2691c05dd8.mp3",
+      "data/jw-living-phrases/card_audio/pantry_Joey_d2ea75fb11b48b53da2a9f32c1656b2691c05dd8.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1040,7 +1298,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "fridge",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/fridge_Kendra_3a82c7a5e37077d52db198435e33225cfcbf0de6.mp3",
+      "data/jw-living-phrases/card_audio/fridge_Joey_3a82c7a5e37077d52db198435e33225cfcbf0de6.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1052,7 +1313,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Can you get the eggs out of the fridge?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/can_you_get_the_eggs_out_of_the__Kendra_dd0fcf022465c122200e15a0bce9c2f136be5b47.mp3",
+      "data/jw-living-phrases/card_audio/can_you_get_the_eggs_out_of_the__Joey_dd0fcf022465c122200e15a0bce9c2f136be5b47.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1064,7 +1328,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Put this back in the fridge",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/put_this_back_in_the_fridge_Kendra_d3110aa078612fff670393214b433e1b2aadf5f6.mp3",
+      "data/jw-living-phrases/card_audio/put_this_back_in_the_fridge_Joey_d3110aa078612fff670393214b433e1b2aadf5f6.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1076,7 +1343,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I have to put the leftovers away",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_have_to_put_the_leftovers_away_Kendra_9985b0312194b9a79f582a28f219455c2313193e.mp3",
+      "data/jw-living-phrases/card_audio/i_have_to_put_the_leftovers_away_Joey_9985b0312194b9a79f582a28f219455c2313193e.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1088,7 +1358,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Can you help me with the dishes?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/can_you_help_me_with_the_dishes_Kendra_e4175c84ead2146e591b544ac7f09dddc157459f.mp3",
+      "data/jw-living-phrases/card_audio/can_you_help_me_with_the_dishes_Joey_e4175c84ead2146e591b544ac7f09dddc157459f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1100,7 +1373,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Can you help him or her with the dishes?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/can_you_help_him_or_her_with_the_Kendra_7ec84f528f3fe3ef4b0b293d1d147e53d2e70181.mp3",
+      "data/jw-living-phrases/card_audio/can_you_help_him_or_her_with_the_Joey_7ec84f528f3fe3ef4b0b293d1d147e53d2e70181.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1112,7 +1388,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she cleaned the counter",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_cleaned_the_counter_Kendra_4d0112307e1ebd68506309949681ddc619d1c234.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_cleaned_the_counter_Joey_4d0112307e1ebd68506309949681ddc619d1c234.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1124,7 +1403,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I just broke my favorite plate",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_just_broke_my_favorite_plate_Kendra_9139bf50488d64b65c7a568952e1061b1950b4ab.mp3",
+      "data/jw-living-phrases/card_audio/i_just_broke_my_favorite_plate_Joey_9139bf50488d64b65c7a568952e1061b1950b4ab.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1136,7 +1418,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Hand me a cup",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/hand_me_a_cup_Kendra_2c47d085542b97837c78ae098c19e3878839fede.mp3",
+      "data/jw-living-phrases/card_audio/hand_me_a_cup_Joey_2c47d085542b97837c78ae098c19e3878839fede.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1148,7 +1433,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Do you want anything to drink?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/do_you_want_anything_to_drink_Kendra_54b28f77194c5899eeda12c94a2de0acf0508054.mp3",
+      "data/jw-living-phrases/card_audio/do_you_want_anything_to_drink_Joey_54b28f77194c5899eeda12c94a2de0acf0508054.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1160,7 +1448,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I want some coffee",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_want_some_coffee_Kendra_4f06bb1f9aa756dbe736c4f52937ab515b9774e3.mp3",
+      "data/jw-living-phrases/card_audio/i_want_some_coffee_Joey_4f06bb1f9aa756dbe736c4f52937ab515b9774e3.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1172,7 +1463,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I like tea better than coffee",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_like_tea_better_than_coffee_Kendra_8f2e642e76df05a295a43efb6b0f22a55f8cc6db.mp3",
+      "data/jw-living-phrases/card_audio/i_like_tea_better_than_coffee_Joey_8f2e642e76df05a295a43efb6b0f22a55f8cc6db.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1184,7 +1478,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Hand me the cutting board",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/hand_me_the_cutting_board_Kendra_399abf672c350f427398e10f4acf26d794c8e6d6.mp3",
+      "data/jw-living-phrases/card_audio/hand_me_the_cutting_board_Joey_399abf672c350f427398e10f4acf26d794c8e6d6.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1196,7 +1493,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Hand me a knife",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/hand_me_a_knife_Kendra_902d4166298c97ff585e2752746315a4a6757a89.mp3",
+      "data/jw-living-phrases/card_audio/hand_me_a_knife_Joey_902d4166298c97ff585e2752746315a4a6757a89.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1208,7 +1508,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Toast the bread",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/toast_the_bread_Kendra_aa3b0ea9856a0a12130f765b45a921c606b8d1f9.mp3",
+      "data/jw-living-phrases/card_audio/toast_the_bread_Joey_aa3b0ea9856a0a12130f765b45a921c606b8d1f9.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1220,7 +1523,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is buttering the toast",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_buttering_the_toast_Kendra_fefefc0bb66f58d1df97c73cf679e1d71eccd674.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_buttering_the_toast_Joey_fefefc0bb66f58d1df97c73cf679e1d71eccd674.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1232,7 +1538,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Do you want butter on your toast?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/do_you_want_butter_on_your_toast_Kendra_b7b18307f9ebd1808aa28729462c65797ce78bdd.mp3",
+      "data/jw-living-phrases/card_audio/do_you_want_butter_on_your_toast_Joey_b7b18307f9ebd1808aa28729462c65797ce78bdd.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1244,7 +1553,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m going to empty the dishwasher",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_going_to_empty_the_dishwasher_Kendra_3047b5c0862c14419903d53a4e0895813b96e762.mp3",
+      "data/jw-living-phrases/card_audio/im_going_to_empty_the_dishwasher_Joey_3047b5c0862c14419903d53a4e0895813b96e762.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1256,7 +1568,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Empty the dishwasher",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/empty_the_dishwasher_Kendra_4d9e27f0233f11efa507a393894730ecc8e91370.mp3",
+      "data/jw-living-phrases/card_audio/empty_the_dishwasher_Joey_4d9e27f0233f11efa507a393894730ecc8e91370.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1268,7 +1583,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is loading the dishwasher",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_loading_the_dishwas_Kendra_62e9a69bbc116923b2ce6e55d191383f46fb63c6.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_loading_the_dishwas_Joey_62e9a69bbc116923b2ce6e55d191383f46fb63c6.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1280,7 +1598,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I always empty the dishwasher in the morning",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_always_empty_the_dishwasher_in_Kendra_63b1b5046e44ab721bfec10c84867b931be065a4.mp3",
+      "data/jw-living-phrases/card_audio/i_always_empty_the_dishwasher_in_Joey_63b1b5046e44ab721bfec10c84867b931be065a4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1292,7 +1613,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Do you want me to make some coffee?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/do_you_want_me_to_make_some_coff_Kendra_6e93c546b36d87d819cbfe2f75d0d58e1cc4a6c4.mp3",
+      "data/jw-living-phrases/card_audio/do_you_want_me_to_make_some_coff_Joey_6e93c546b36d87d819cbfe2f75d0d58e1cc4a6c4.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1304,7 +1628,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Am I to make coffee?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/am_i_to_make_coffee_Kendra_ecb8fbfb2821804847c869bc60615562c0030a6a.mp3",
+      "data/jw-living-phrases/card_audio/am_i_to_make_coffee_Joey_ecb8fbfb2821804847c869bc60615562c0030a6a.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1316,7 +1643,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What’s wrong with the coffee pot?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/whats_wrong_with_the_coffee_pot_Kendra_f65f853ed7e7fbf7b315efc6466f32c351213238.mp3",
+      "data/jw-living-phrases/card_audio/whats_wrong_with_the_coffee_pot_Joey_f65f853ed7e7fbf7b315efc6466f32c351213238.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1328,7 +1658,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I think it’s broke.  I’ll have to buy a new one",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_think_its_broke_ill_have_to_bu_Kendra_35ea924b9b03c7e1b6805c2cd4aa1ae0a128e698.mp3",
+      "data/jw-living-phrases/card_audio/i_think_its_broke_ill_have_to_bu_Joey_35ea924b9b03c7e1b6805c2cd4aa1ae0a128e698.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1340,7 +1673,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Whose dishes are those?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/whose_dishes_are_those_Kendra_35ddbc9b78833981bde9ce9ea68181b575d085cb.mp3",
+      "data/jw-living-phrases/card_audio/whose_dishes_are_those_Joey_35ddbc9b78833981bde9ce9ea68181b575d085cb.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1352,7 +1688,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I’m going to watch television",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/im_going_to_watch_television_Kendra_20d5b6789f0a71b77f4a1c4617afbbb08b0f2baf.mp3",
+      "data/jw-living-phrases/card_audio/im_going_to_watch_television_Joey_20d5b6789f0a71b77f4a1c4617afbbb08b0f2baf.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1364,7 +1703,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "Do you want to go watch something?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/do_you_want_to_go_watch_somethin_Kendra_d173c2bc6c040919c46a30e06e1d8301692cc007.mp3",
+      "data/jw-living-phrases/card_audio/do_you_want_to_go_watch_somethin_Joey_d173c2bc6c040919c46a30e06e1d8301692cc007.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1376,7 +1718,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "How many pages have you read?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/how_many_pages_have_you_read_Kendra_15b306b455ada5f8a6eac8d7474d0259bb800a1e.mp3",
+      "data/jw-living-phrases/card_audio/how_many_pages_have_you_read_Joey_15b306b455ada5f8a6eac8d7474d0259bb800a1e.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1388,7 +1733,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "What are you reading?",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/what_are_you_reading_Kendra_f57d5b06475a3ff00985fcbdcb689ac7b2aea1cf.mp3",
+      "data/jw-living-phrases/card_audio/what_are_you_reading_Joey_f57d5b06475a3ff00985fcbdcb689ac7b2aea1cf.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1400,7 +1748,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "I read fifteen pages for school",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/i_read_fifteen_pages_for_school_Kendra_9477ca83ed26e0bb7f3175e9da2854868bc7707f.mp3",
+      "data/jw-living-phrases/card_audio/i_read_fifteen_pages_for_school_Joey_9477ca83ed26e0bb7f3175e9da2854868bc7707f.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1412,7 +1763,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is under a blanket",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_under_a_blanket_Kendra_bf47a24becc765338393994ba899bc7cd279ba7c.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_under_a_blanket_Joey_bf47a24becc765338393994ba899bc7cd279ba7c.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1424,7 +1778,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is comfortable",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_comfortable_Kendra_8b676ab621199842d88dc4e316e6d0319306fa05.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_comfortable_Joey_8b676ab621199842d88dc4e316e6d0319306fa05.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1436,7 +1793,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is sitting on the couch",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_sitting_on_the_couc_Kendra_e45df131a2ea17516f0b06308657ff679d3ab3a1.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_sitting_on_the_couc_Joey_e45df131a2ea17516f0b06308657ff679d3ab3a1.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1448,7 +1808,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is lying down on the couch",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_lying_down_on_the_c_Kendra_588fc4a9cd86a18070cc1fff0bfe0db59b715c2e.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_lying_down_on_the_c_Joey_588fc4a9cd86a18070cc1fff0bfe0db59b715c2e.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1460,7 +1823,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "living room",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/living_room_Kendra_122604decb5a6e3989745b352da8004cf940fb21.mp3",
+      "data/jw-living-phrases/card_audio/living_room_Joey_122604decb5a6e3989745b352da8004cf940fb21.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1472,7 +1838,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "porch",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/porch_Kendra_2708dfee202dc4ffbf291591026d7b5075c52dea.mp3",
+      "data/jw-living-phrases/card_audio/porch_Joey_2708dfee202dc4ffbf291591026d7b5075c52dea.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1484,7 +1853,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is patching a pair of pants",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_patching_a_pair_of__Kendra_9d6a9278475e461591668af31955d57cec4ac86d.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_patching_a_pair_of__Joey_9d6a9278475e461591668af31955d57cec4ac86d.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   },
   {
@@ -1496,7 +1868,10 @@
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
     "english": "He or she is sewing",
-    "english_audio": [],
+    "english_audio": [
+      "data/jw-living-phrases/card_audio/he_or_she_is_sewing_Kendra_6317a85dd7f49c98d6af2854a722e34d16a19c10.mp3",
+      "data/jw-living-phrases/card_audio/he_or_she_is_sewing_Joey_6317a85dd7f49c98d6af2854a722e34d16a19c10.mp3"
+    ],
     "phoneticOrthography": "WEBSTER"
   }
 ]

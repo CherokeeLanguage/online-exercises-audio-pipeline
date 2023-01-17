@@ -19,6 +19,10 @@ This repository contains python modules to process WAV audio from first language
 1. Generate English audio with TTS if needed
 1. Copy audio and JSON files into online-exercises repository
 
+## Setup
+
+If you also have a copy of CherokeeLanguage/audio-lessons-generator-python they can share a symlinked cache folder.
+
 ## TODOS
 
 ### English audio generation (`generate_english_audio` module) needs testing and a brush up for new code structure

@@ -41,9 +41,37 @@ class VocabCollection:
     sets: List[VocabSet]
 
 
+def read_cards_for_dataset(dataset: DatasetMetadata) -> List[OnlineExercisesCard]:
+    with open(dataset.cards_json) as f:
+        cards_json = json.load(f)
+        cards = [
+            OnlineExercisesCard(
+                **{k: v for k, v in card.items() if not k == "phoneticOrthography"},
+                phoneticOrthography=PhoneticOrthography(card["phoneticOrthography"]),
+            )
+            for card in cards_json
+        ]
+
+    return cards
+
+
+def write_cards_json_for_dataset(
+    dataset: DatasetMetadata, cards: List[OnlineExercisesCard]
+):
+    with open(dataset.cards_json, "w") as f:
+        json.dump([term.toDict() for term in cards], f, ensure_ascii=False)
+
+
 def export_terms_to_json(
     dataset: DatasetMetadata,
 ):
+    """
+    Export data from terms CSV to OnlineExercises JSON files.
+
+    Produces two files:
+        - A cards JSON with individual card data
+        - A collection JSON with card <-> vocab set relationships
+    """
     cards: List[OnlineExercisesCard] = []
     vocab_sets: Dict[str, VocabSet] = {}
     for term in read_terms_for_dataset(dataset):
@@ -70,8 +98,7 @@ def export_terms_to_json(
                 )
             )
 
-    with open(dataset.card_json, "w") as f:
-        json.dump([term.toDict() for term in cards], f, ensure_ascii=False)
+    write_cards_json_for_dataset(dataset, cards)
 
     with open(dataset.collection_json, "w") as f:
         json.dump(

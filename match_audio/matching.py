@@ -23,7 +23,7 @@ class MatchableAudio:
         dataset: DatasetMetadata, audio_source: AudioSegment, annotation: Annotation
     ):
         split_audio_path = (
-            dataset.split_audio_dir
+            dataset.audio_output_dir
             / f"split_audio_{annotation.start_ms}_{annotation.end_ms}.mp3"
         )
         if not split_audio_path.exists():

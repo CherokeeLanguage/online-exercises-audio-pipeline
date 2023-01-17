@@ -23,7 +23,7 @@ def text_to_path(text: str):
 def match_segments_and_extract_audio(dataset: DatasetMetadata) -> None:
     audio_source: AudioSegment = AudioSegment.from_wav(dataset.audio_source)
 
-    os.makedirs(dataset.split_audio_dir, exist_ok=True)
+    os.makedirs(dataset.audio_output_dir, exist_ok=True)
 
     available_cherokee_audio = get_matchable_audio_from_annotations(
         dataset, audio_source
