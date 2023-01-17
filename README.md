@@ -8,11 +8,13 @@ This repository contains python modules to process WAV audio from first language
 1. Annotate WAV files from first-language speakers with [ELAN](https://archive.mpi.nl/tla/elan/download)
    - Use shorthand phonetics with no tone
 1. Export annotations as TSV
-1. Provide a CSV file with rich (tonal) phonetics, syllabary, and English
-1. Write a `dataset.json` file that says where to find each of the above (see [create_cards/structs.py](/create_cards/structs.py) and [data/jw-living-phrases/dataset.json](data/jw-living-phrases/dataset.json))
-1. Match annotations to CSV, extract audio from source WAV in a subdirectory, and dump JSON for the online-exercises site
+1. Provide a CSV file with rich (tonal) phonetics, syllabary, and English (terms CSV)
+   - Should have columns: `NEEDS_FIXING, VOCAB_SET, ENGLISH, CHEROKEE, SYLLABARY, AUDIO`
+   - `NEEDS_FIXING` and `AUDIO` can be blank to start
+1. Write a `dataset.json` file that says where to find each of the above (see [common/structs.py](/common/structs.py) and [data/jw-living-phrases/dataset.json](data/jw-living-phrases/dataset.json))
+1. Run the following to interactively match an annotated segment to each row in the terms CSV.
    ```
-   python -m create_cards data/<your-data-set>
+   python -m match_audio data/<your-data-set>
    ```
 1. Generate English audio with TTS if needed
 1. Copy audio and JSON files into online-exercises repository

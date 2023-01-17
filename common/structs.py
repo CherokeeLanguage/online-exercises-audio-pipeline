@@ -1,15 +1,8 @@
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from enum import Enum
-import re
-from typing import List
-
-
-def normalizePronunciation(cherokee: str):
-    return re.sub(r"[\.\?\,]", cherokee.strip().lower(), "")
-
-
-def cleanSyllabary(syllabary: str):
-    return syllabary.strip().upper()
+import json
+from pathlib import Path
+from typing import Union
 
 
 class PhoneticOrthography(Enum):
@@ -18,34 +11,51 @@ class PhoneticOrthography(Enum):
 
 
 @dataclass
-class OnlineExercisesCard:
-    cherokee: str
-    cherokee_audio: List[str]
-    syllabary: str
-
-    alternate_pronunciations: List[str]
-    alternate_syllabary: List[str]
-
-    english: str
-    english_audio: List[str]
-
+class DatasetMetadata:
+    audio_source: Path
+    annotations: Path
+    terms: Path
+    folder: Path
+    collection_title: str
+    collection_id: str
     phoneticOrthography: PhoneticOrthography
 
-    def toDict(self):
-        d = asdict(self)
-        d["phoneticOrthography"] = self.phoneticOrthography.name
-        return d
+    @staticmethod
+    def from_file(path: Union[str, Path]):
+        if isinstance(path, str):
+            path = Path(path)
 
+        with open(path) as f:
+            data = json.load(f)
 
-@dataclass
-class VocabSet:
-    id: str
-    title: str
-    terms: List[str]  # cherokee pronunciation
+        return DatasetMetadata(
+            audio_source=path.parent / Path(data["audio_source"]),
+            annotations=path.parent / Path(data["annotations"]),
+            terms=path.parent / Path(data["terms"]),
+            folder=path.parent,
+            collection_id=data["collection_id"],
+            collection_title=data["collection_title"],
+            phoneticOrthography=PhoneticOrthography(
+                data.get("phonetic_orthography", None)
+            ),
+        )
 
+    @property
+    def backup_terms(self):
+        return self.folder / "terms.back.csv"
 
-@dataclass
-class VocabCollection:
-    id: str
-    title: str
-    sets: List[VocabSet]
+    @property
+    def new_terms(self):
+        return self.folder / "terms.new.csv"
+
+    @property
+    def split_audio_dir(self):
+        return self.folder / "split_audio"
+
+    @property
+    def card_json(self):
+        return self.folder / f"{self.collection_id}-cards.json"
+
+    @property
+    def collection_json(self):
+        return self.folder / f"{self.collection_id}.json"
