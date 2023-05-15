@@ -1,0 +1,9 @@
+{
+  "audio_source": "Bathing & Digging.wav",
+  "annotations": "Bathing & Digging.txt",
+  "annotation_format": "DROP_EMPTY",
+  "terms": "Bathing & Digging.terms.csv",
+  "collection_title": "Full conjugations",
+  "collection_id": "jw-conjugations",
+  "phonetic_orthography": "WEBSTER"
+}

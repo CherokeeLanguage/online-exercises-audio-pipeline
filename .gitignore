@@ -4,6 +4,7 @@ __pycache__
 
 # too large for github
 data/jw-living-phrases/Living Phrases.wav
+data/jw-conjugations/Bathing & Digging.wav
 
 # cache for English TTS 
 cache
