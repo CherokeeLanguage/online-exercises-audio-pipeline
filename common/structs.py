@@ -10,10 +10,28 @@ class PhoneticOrthography(Enum):
     WEBSTER = "WEBSTER"
 
 
+class AnnotationFormat(Enum):
+    """
+    An annotation format identifies which annotations in an ELAN TSV should be
+    considered Cherokee audio.
+    """
+
+    ENGLISH_CHEROKEE_ALTERNATING = "ENGLISH_CHEROKEE_ALTERNATING"
+    """Annotations alternate between English and Cherokee, starting with English."""
+
+    CHEROKEE_NONEMPTY = "CHEROKEE_NONEMPTY"
+    """All nonempty annotations are Cherokee audio."""
+
+    @classmethod
+    def default(cls):
+        return cls.ENGLISH_CHEROKEE_ALTERNATING
+
+
 @dataclass
 class DatasetMetadata:
     audio_source: Path
     annotations: Path
+    annotation_format: AnnotationFormat
     terms: Path
     folder: Path
     collection_title: str
@@ -31,6 +49,9 @@ class DatasetMetadata:
         return DatasetMetadata(
             audio_source=path.parent / Path(data["audio_source"]),
             annotations=path.parent / Path(data["annotations"]),
+            annotation_format=AnnotationFormat(
+                data.get("annotation_format", AnnotationFormat.default().value)
+            ),
             terms=path.parent / Path(data["terms"]),
             folder=path.parent,
             collection_id=data["collection_id"],

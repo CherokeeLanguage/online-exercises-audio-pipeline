@@ -6,9 +6,9 @@ Python module for interfacing with an annotation TSV file from ELAN (ie. the TSV
 from csv import DictReader
 from dataclasses import dataclass
 import itertools
-from typing import Iterable, Tuple, TypeVar
+from typing import Generator, Iterable, Tuple, TypeVar
 
-from common.structs import DatasetMetadata
+from common.structs import AnnotationFormat, DatasetMetadata
 
 
 @dataclass
@@ -36,14 +36,30 @@ def read_annotations_tsv(dataset: DatasetMetadata):
             )
 
 
-def cherokee_annotations(dataset: DatasetMetadata):
+def cherokee_annotations(dataset: DatasetMetadata) -> Generator[Annotation, None, None]:
     """
-    Drop every other annotation (assumes annotations alternate between English and Cherokee, starting with English).
+    Drop non-Cherokee annotations.
+    """
+    annotations = read_annotations_tsv(dataset)
 
-    This is ugly and we should just stop annotating the English.
-    """
-    for annotation in itertools.islice(read_annotations_tsv(dataset), 1, None, 2):
-        yield annotation
+    if dataset.annotation_format == AnnotationFormat.ENGLISH_CHEROKEE_ALTERNATING:
+        """
+        Drop every other annotation (assumes annotations alternate between English and Cherokee, starting with English).
+
+        This is ugly and we should just stop annotating the English.
+        """
+        for annotation in itertools.islice(annotations, 1, None, 2):
+            yield annotation
+
+    elif dataset.annotation_format == AnnotationFormat.CHEROKEE_NONEMPTY:
+        """
+        Drop empty annotations
+        """
+        yield from (
+            annotation
+            for annotation in annotations
+            if not annotation.annotation_text.strip() == ""
+        )
 
 
 T = TypeVar("T")
