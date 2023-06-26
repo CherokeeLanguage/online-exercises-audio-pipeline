@@ -6,9 +6,13 @@ Python module for interfacing with an annotation TSV file from ELAN (ie. the TSV
 from csv import DictReader
 from dataclasses import dataclass
 import itertools
+from pathlib import Path
 from typing import Generator, Iterable, Tuple, TypeVar
 
 from common.structs import AnnotationFormat, DatasetMetadata
+
+from pydub import AudioSegment
+from pydub.effects import normalize
 
 
 @dataclass
@@ -19,9 +23,30 @@ class Annotation:
     duration_ms: int
     annotation_text: str
 
+    def split_audio_path(self, dataset: DatasetMetadata):
+        """Path to file containing the audio for just this annotation."""
+        return (
+            dataset.audio_output_dir / f"split_audio_{self.start_ms}_{self.end_ms}.mp3"
+        )
+
+    def ensure_split_audio_exists(
+        self, dataset: DatasetMetadata, audio_source: AudioSegment
+    ):
+        """Ensure that a file with just the annotated audio exists on disk."""
+        split_audio_path = self.split_audio_path(dataset)
+        if not split_audio_path.exists():
+            cherokee_audio: AudioSegment = normalize(audio_source[self.start_ms : self.end_ms])  # type: ignore
+            cherokee_audio.export(
+                split_audio_path, format="mp3", parameters=["-qscale:a", "0"]
+            )
+
 
 def read_annotations_tsv(dataset: DatasetMetadata):
-    with open(dataset.annotations) as f:
+    return read_annotations_tsv_from_path(dataset.annotations)
+
+
+def read_annotations_tsv_from_path(path: Path):
+    with open(path) as f:
         for row in DictReader(
             f,
             ["tier", "_", "start_ms", "end_ms", "duration_ms", "annotation_text"],

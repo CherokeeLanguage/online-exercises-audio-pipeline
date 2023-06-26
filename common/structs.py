@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from enum import Enum
 import json
 from pathlib import Path
-from typing import Union
+from typing import Optional, Union
 
 
 class PhoneticOrthography(Enum):
@@ -27,10 +27,28 @@ class AnnotationFormat(Enum):
         return cls.ENGLISH_CHEROKEE_ALTERNATING
 
 
+class TermFormat(Enum):
+    """
+    A TermFormat describes which columns are present on terms CSV.
+    """
+
+    SIMPLE = "SIMPLE"
+    """Terms have Cherokee syllabary and English."""
+
+    RICH = "RICH"
+    """Terms have Cherokee syllabary, English, transcribed phonetics."""
+
+    @classmethod
+    def default(cls):
+        return cls.RICH
+
+
 @dataclass
 class DatasetMetadata:
     audio_source: Path
+    english_audio_source: Optional[Path]
     annotations: Path
+    english_annotations: Optional[Path]
     annotation_format: AnnotationFormat
     terms: Path
     folder: Path
@@ -46,9 +64,18 @@ class DatasetMetadata:
         with open(path) as f:
             data = json.load(f)
 
+        english_annotations = data.get("english_annotations", None)
+        english_audio_source = data.get("english_audio_source", None)
+
         return DatasetMetadata(
             audio_source=path.parent / Path(data["audio_source"]),
+            english_audio_source=None
+            if english_audio_source is None
+            else path.parent / Path(english_audio_source),
             annotations=path.parent / Path(data["annotations"]),
+            english_annotations=None
+            if english_annotations is None
+            else path.parent / Path(english_annotations),
             annotation_format=AnnotationFormat(
                 data.get("annotation_format", AnnotationFormat.default().value)
             ),

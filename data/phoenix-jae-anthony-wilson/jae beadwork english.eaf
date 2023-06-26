@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-16T11:08:23-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/charlesmcvicker/code/online-exercises-audio-pipeline/data/phoenix-jae-anthony-wilson/jae beadwork english.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./jae beadwork english.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b493f67d-3776-41d6-8e39-5dc3a84e3151</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="14266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="19787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="23920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="23937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="27377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="27425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="33969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="39514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="39514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="43201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="43201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="47953"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="47953"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="52366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="52366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="58080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="58080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="64204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="64204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="71550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="78536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="78536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="81700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="81700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="85386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="85560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="88002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="88002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="92929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="92929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="97300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="97670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="100610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="100813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="104721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="104721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="108330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="108330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="116230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="116230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="122006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="122006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="126869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="126869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="129016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="129016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="132712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="132712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="138640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="138640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="146791"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="146791"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="150290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="150290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="155742"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>After combining her passions for jewelry and art, Cherokee Nation citizen Jae Anthony-Wilson taught herself how to bead in early 2020.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Her new talent gave her an outlet of self expression, as well as allowed her to connect with herself on a creative and spiritual level.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>“Beadwork has always been something really special to me and a way that I express myself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>I’ve always throughout my life expressed myself with my jewelry and the beadwork that I own.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>But I always wanted to learn and I’ve always been an artist,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>With attending college, Anthony-Wilson said her creative outlets took a back seat, but that changed in 2020.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>“I kind of got dragged away from my art … but during the pandemic, I just had time to slow down,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>“I think that we all kind of maybe went through some hard stuff alone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Although it was hard, it gave me an opportunity to reconnect with myself and reconnect with my art.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>I just started beading and I taught myself actually on YouTube from another Native artist.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Her first pairs of earrings were a tribute to her sisters, of which she is the youngest of five.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Anthony-Wilson said from there, her beading was showcased in an early 2020 art show and it “took off from there.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>“I created my first pairs off of my sisters in my family and did like color combinations on how I feel about them,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Anthony-Wilson describes her waterfall, or tassel, style of earrings as an “abstract, more modern” take on realistic imagery.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>“A whole lot of the time it’s not just design and pattern.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>It’s more like I’m copying a bird or I’m copying a flower,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>“So, it’s very realistic and image-like.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Some of her collections include her take on wildlife, flowers and even Tulsa architecture.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>When it comes to sharing her work with the world, Anthony-Wilson said it means “everything” to her.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>She added that beading allows her time to “connect” to herself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>“I think it’s so important to connect with yourself and to take that time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Especially as Native Americans we have a lot of healing to do,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>“We have a lot of trauma and a lot of pain from the past, so to be able to have that time to sit with myself and just be with myself and be with my beads, it’s so healing.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>As for being a Native creator, Anthony-Wilson said it is important that there is “raw, real Native representation.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>“Growing up in a predominantly white suburb as a young, Native American girl was kind of tough.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>I got a lot of stereotypes thrown at me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>People would touch my hair, just a lot of negative stereotypes,” she said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>“So, to be a raw, real representation of a 21st century Cherokee woman is really important to me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>I also want to inspire young Native artists and other Native Americans that maybe have been hit with those stereotypes as well and don’t feel as connected.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Real representation is really important to me, so I try to be that.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>To view Anthony-Wilson’s work, find her on Instagram by searching “j.birdbeadwork.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

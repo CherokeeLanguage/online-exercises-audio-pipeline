@@ -22,17 +22,10 @@ class MatchableAudio:
     def from_annotation(
         dataset: DatasetMetadata, audio_source: AudioSegment, annotation: Annotation
     ):
-        split_audio_path = (
-            dataset.audio_output_dir
-            / f"split_audio_{annotation.start_ms}_{annotation.end_ms}.mp3"
+        annotation.ensure_split_audio_exists(dataset, audio_source)
+        return MatchableAudio(
+            annotation.annotation_text, file=annotation.split_audio_path(dataset)
         )
-        if not split_audio_path.exists():
-            cherokee_audio: AudioSegment = normalize(audio_source[annotation.start_ms : annotation.end_ms])  # type: ignore
-            cherokee_audio.export(
-                split_audio_path, format="mp3", parameters=["-qscale:a", "0"]
-            )
-
-        return MatchableAudio(annotation.annotation_text, file=split_audio_path)
 
 
 def get_matchable_audio_from_annotations(

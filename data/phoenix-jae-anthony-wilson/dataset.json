@@ -1,0 +1,11 @@
+{
+  "audio_source": "jae beadwork cherokee.mp3",
+  "annotations": "jae beadwork cherokee.txt",
+  "english_audio_source": "jae beadwork english.mp3",
+  "english_annotations": "jae beadwork english.txt",
+  "terms": "J.Bird Beadwork terms.csv",
+  "term_format": "SIMPLE",
+  "collection_title": "J.Bird Beadwork",
+  "collection_id": "jbird-beadwork",
+  "phonetic_orthography": "WEBSTER"
+}
