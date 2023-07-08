@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-26T16:15:55-07:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/charlesmcvicker/code/online-exercises-audio-pipeline/data/phoneix-language-center/language center english.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./language center english.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:64eeb01c-8e71-46bf-8f2e-e24e35cea9c6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="16020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="22580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="22580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="27903"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="27903"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="34114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="42380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="42380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="46450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="46490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="48450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="48510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="50060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="50060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="51559"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="51810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="56870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="57710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="65860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="65866"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="73630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="73670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="76790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="83750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="83750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="88540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="88540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="95430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="95430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="103831"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="103831"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="107134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="107134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="109360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="109440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="113390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="113390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="117310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="117740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="120180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="120180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="125670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="125670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="129404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="129800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="137310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="137310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="140384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="140650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="155640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="156000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="166600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="166940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="169880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="169990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="173980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="174020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="180810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="180850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="184920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="184920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="187663"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>A multi-million-dollar effort to transform a former casino into the Cherokee Nation’s new language hub is expected to wrap up later this year.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Barring unforeseen setbacks, construction and renovation should be completed by Labor Day weekend, according to Language Department Executive Director Howard Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>“So we may be looking at opening up sometime in October, a lot faster than what I thought,” Paden said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>“This is incredible.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Construction of the $5 million Durbin Feeling Language Center in Tahlequah began in May 2021.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>New wings have been added to each side of the building, doubling the space for a total of more than 50,000 square feet.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Once expansion and remodeling of the former Cherokee Casino-Tahlequah building is complete, the tribe will place all of its language-related programs under one roof.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>“About everything that will happen with language revitalization will be here,” Paden said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>“We’ll obviously have translation.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>We’ll have master-apprentice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>We’ll have the immersion school.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Those are big programs, but there are several small programs that will also be nestled within these walls.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>The immersion school, called ᏣᎳᎩ ᏧᎾᏕᎶᏆᏍᏗ (Tsalagi Tsunadeloquasdi), has grown to more than 100 students in grades pre-K through eighth grade, according to the tribe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>The curriculum is Oklahoma Department of Education grade-level standards, but instruction is taught exclusively in the Cherokee language, both written and spoken.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>The Sequoyah syllabary is used for all print materials.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Former immersion school student Ethan Winn, now 21, was impressed with the language center even in its construction phase.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>“It means a lot, the thought they’re putting into this to make it all Cherokee,” he said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>“Here, it means so much to see there is going to be essentially a whole new generation that’s going to grow up knowing how to be Cherokee.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>An important goal for Paden and other language advocates is creating new speakers either through the CN’s master-apprentice program or at the immersion school.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>“There’s less than 2,000 speakers,” Paden said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>“We lost 150 of them last year.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>We’re trying to build as many speakers as we can and to the highest level.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Immersion school students are introduced to the Cherokee language at an early age.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>“We want first-language speakers,” Paden said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>“Now that doesn’t mean that we don’t mind somebody having two first languages, but one of them has to be Cherokee.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>We never want a time on this earth there’s not a first-language Cherokee speaker.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>The language center is named after the late linguist Durbin Feeling, widely considered the greatest modern contributor to the preservation of the Cherokee language.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Feeling died in August 2020 at age 74.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>According to the tribe, Feeling wrote the Cherokee dictionary, added the syllabary on a word processor in the 1980s, developed hundreds of Cherokee language teaching materials and started the process to add the Cherokee language on Unicode, which today allows smartphones to offer the syllabary.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>In 2019, the CN Tribal Council passed the Durbin Feeling Preservation Act to invest $16 million in the Cherokee language, $5 million of which was earmarked for the new language center.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>“We want this accessible to everybody,” Paden said.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>“We have language technology – we’re making cartoons, we’re making apps.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>We’ve got to bring the language into this century by all means, but to keep the remnants of … these sort of philosophies that we have as Cherokee people.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>It has to still be within our language and it has to be within our people.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>If we do that, we will always be Cherokee.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

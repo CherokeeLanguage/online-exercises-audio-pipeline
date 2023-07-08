@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-06-26T15:57:42-07:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/charlesmcvicker/code/online-exercises-audio-pipeline/data/phoneix-language-center/language center cherokee.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./language center cherokee.mp3"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ac5afdb3-f614-40b4-b49a-06609b4a9370</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="17350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="47675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="47675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="62670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="62670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="65404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="65404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="82563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="82563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="97100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="97110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="118788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="118788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="129677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="129677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="135947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="135947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="140809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="140809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="148151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="148151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="160336"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="160336"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="183966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="183966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="201140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="201150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="208140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="208522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="226749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="226749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="233817"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="233817"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="249894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="249894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="277037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="277037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="283012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="283012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="289204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="289204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="299919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="299919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="315041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="315041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="319542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="319542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="331518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="331518"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="341544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="341544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="359848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="359848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="368961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="368961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="417003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="417003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="440076"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="440076"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="446002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="446002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="455237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="455237"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="474803"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="474803"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="481639"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="481639"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="488400"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ᏓᎵᏆ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ᎢᎸᏍᎩ ᎢᏳᏆᏗᏅᏓ ᏧᎬᏩᎶᏗ ᎯᎠ ᎤᏂᏁᏟᏴᏌ ᎤᏔᎾ ᏧᏂᏆᎾᏲᏍᏗ ᏄᎵᏍᏔᏅᎯ ᏃᏊ ᏣᎳᎩ ᎠᏰᎵ ᎢᏤ ᎦᏬᏂᎯᏍᏗ ᎤᏂᏴᏍᏗ ᎨᏎᏍᏗ ᎯᎠ ᏧᏕᏘᏴᏌᏓ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ᎠᏲᏍᏗᏍᎩ ᏫᎾᏂᎪᏩᏘᏍᎬᎾ ᎠᏲᏍᏗᏍᎩ, ᏓᎾᏁᏍᎨᏍᎬ ᎠᎴ ᎣᏍᏓ ᎾᏅᏁᎲᎢ ᎠᏍᏆᏙᏅ ᎨᏎᏍᏗ ᎾᎿ ᏗᎦᎸᏫᏍᏓᏁᏗ ᎢᎪ ᏥᎨᏐ ᎠᏍᏆᏗᏍᎬ ᏒᎾᏙᏓᏆᏍᏗ ᎠᎵᏍᏆᏗᏍᎬ, ᏂᏓᏩᏁᏨ ᎾᏍᎩ ᎦᏬᏂᎯᏍᏗ ᎤᎾᏙᏢᏒ ᏄᎬᏫᏳᏒ ᏗᎫᎪᏔᏂᏙ Howard Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>“ᎾᏍᎩᏃ ᎢᏳᏍᏗ ᎡᎵᏊ ᏱᏗᎦᏕᏃᎮ ᎢᎸᏢ ᎠᏟᎢᎵᏒ October ᎧᎸᎢ, ᎠᎨᏴ ᎤᏟᏍᏗᏯ ᎾᏃ ᎠᏆᏓᏅᏖᎸᎢ, ᎠᏗᏍᎬ Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>“ᎯᎠ ᏙᎯᏳ ᎤᏍᏆᏂᎪᏗ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ᎠᎾᏁᏍᎨᏍᎬ ᎾᏍᎩ ᎯᎠ ᎯᏍᎩ ᎢᏳᏆᏗᏅᏓ ᏧᎵᎬᏩᏝ ᎾᎿ Durbin Feeling ᎦᏬᏂᎯᏍᏗ ᎠᏰᎵ ᎾᎿ ᏓᎵᏆ ᎠᏓᎴᏂᏍᎬ ᎾᎿ May 2021.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ᏗᏤᎢ ᏗᎧᏅᏑᎳᏅ ᎢᏧᎳ ᏗᎬᎦᏓ ᎾᏍᎩ ᎠᏓᏁᎸᎢ, ᏔᎵ ᎢᏳᏩᎪᏗ ᎢᎩᏓ ᏂᎦᎵᏍᏗ ᏂᎬᎢ ᏯᏛᎾ 50,000 sq. Ft.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ᏃᏊᏃ ᎠᏂᏍᏆᏛ ᎠᎾᏔᏃᎯᏍᏗᏍᎬ ᎠᎴ ᎣᏍᏓ ᎾᏅᏁᎲᎢ ᎤᏪᏘ ᏧᏂᏆᎾᏲᏍᏗ-ᏓᎵᏆ ᏣᏓᏁᎸ, ᎾᏍᎩᏃ ᎾᎯᏳ ᎠᏂᎳᏍᏓᏢ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏧᏂᎸᏫᏍᏓᏁᎯ ᎾᏃ ᏂᎦᏓ ᏛᏂᏴᏟᏝ ᏌᏊ ᎦᎵᏦᏛ ᎭᏂᏅᏗᏢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>“ᏂᎦᏓᏊ ᎢᏳᏍᏗ ᎾᏍᎩ ᏂᏗᎦᎵᏍᏔᏂᏒ ᎾᎿ ᎦᏬᏂᎯᏍᏗ ᎤᎴᏂᏏᏐᏗ ᎠᎭᏂ ᎨᏎᏍᏗ,” ᎠᏗᏍᎬ Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>“ᏙᎯᏳᏃ ᎠᎾᏁᎶᏗᏍᎩ ᏚᏂᎸᏫᏍᏓᏁᎮᏍᏗ ᎠᎭᏂ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ᏙᎩᎧᎭ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎤᎾᏓᏂᎳᎨᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ᏂᏙᎬᏁᏍᏗ ᎾᏍᏊ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎠᏂᏫᏒᏍᎩ ᏧᎾᏕᎶᏆᏍᏗᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ᎯᎠ ᏧᏔᎾ ᏚᎾᏙᏢᏒᎢ, ᎠᏎᏃ ᎢᎸᏍᎩ ᏧᏍᏗ ᏚᎾᏙᏢᏒ ᎾᏍᏊ ᎠᏁᎴᏍᏗ ᎾᎿ ᎭᏫᏓᏗᏢ ᏕᎦᎾᏒᎦᏢᎢ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ᎯᎠ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎠᏂᏫᏒᏍᎩ ᏧᎾᏕᎶᏆᏍᏗ,    ᎾᏂᏪᏎᎰᎢ    (ᏣᎳᎩ ᏧᎾᏕᎶᏆᏍᏗ), ᎢᎦ ᎤᏚᏌ ᎾᏍᎩ ᏃᏊ 100 ᏗᎾᏕᎶᏆᏍᎩ ᎾᏍᎩ ᏗᏂᏂᏙᎯ pre-K ᎠᏓᎴᏂᏍᎩ ᏧᏁᎵᏁ ᎢᏍᏗ, ᏚᎾᏓᏙᎵᏤᎸᎢ ᎠᏂᎳᏍᏓᏢᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ᏧᎾᏕᎶᏆᏍᏙᏗ ᎾᎿ Oklahoma ᎤᏙᏢᏒ ᏗᎾᏕᎶᏆᏍᏗ ᎾᏍᎩ ᏗᏂᏂᏙᎯ ᏚᎾᏙᎵᏤᎲᎢ, ᎠᏎᏍᎩᏂ ᏓᎾᏕᏲᎲᏍᎬ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎤᏩᏌ, ᎢᏧᎳ ᎪᏪᎶᏗ ᎠᎴ ᎦᏬᏂᎯᏍᏗ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ᎾᎿ ᏏᏉᏯ ᏧᏬᏪᎳᏅ ᏓᏅᏗᏍᎨᏍᏗ ᏂᎦᎥ ᎠᏃᏪᎳᏅᎲᏍᎬᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ᎦᏳᎳ ᎤᎶᏒ ᏧᏕᎶᏆᎥ Ethan Winn, ᏃᏊ 21 ᎢᏳᏕᏘᏴᏓ, ᎢᎦᎢ ᎠᏍᏆᏂᎪᏍᎬ ᎾᎿ ᎦᏬᏂᎯᏍᏗ ᎠᏰᎵ ᎠᎴ ᎾᏍᏊ ᎠᏂᏱᎵᏒᏊ ᎠᎾᏁᏍᎨᏍᎬᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>“ᎤᎪᏓ ᎠᏓᏅᏖᏗ, ᎯᎠ ᏥᎾᏅᏁ ᏂᎦᏓ ᏣᎳᎩ,” ᎠᏗᏍᎬᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>“ᎠᎭᏂ, ᎢᎦ ᎤᎵᏍᎨᏓ ᎠᎪᏩᏛᏗ ᏂᏓᎦᎵᏍᏔᏅᏍᎬᎢ ᎤᎵᏍᎨᏓ ᏂᎦᏓ ᎢᏤ ᎤᎾᏁᎳᏔᏅᏒ ᎾᏍᎩᎾ ᏙᏛᎾᏛᏏ ᎤᎾᏅᏖᏍᏗ ᎢᏳᎾᏛᏗ ᎠᏂᏣᎳᎩ ᎨᏒᎢ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ᎤᎵᏍᎨᏓ ᎠᏎᎸᎢ ᎾᏍᎩ Paden ᎠᎴ ᏗᏐᎢ ᏗᎦᏬᏂᎯᏍᏗ ᏓᏂᏂᎳᏕ ᎤᏂᎾᏄᎪᏫᏍᏗ ᏣᎳᎩ ᎠᏂᏬᏂᏍᎩ ᎾᎿ ᎯᎠ CN’S ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎤᎾᏓᏂᎳᎨᎢ ᏧᎾᏕᎶᏆᏍᏗᎢ ᎤᎾᏙᏢᏒ ᎠᎴ ᎾᎿ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎠᏂᏫᏒᏍᎩ ᏧᎾᏕᎶᏆᏍᏗᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>“ᎠᏂᎦᏲᏟ ᎾᏃ 2,000 ᏣᎳᎩ ᎠᏂᏬᏂᏍᎩ,” ᎠᏗᏍᎬᎢ Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>“ᏙᎩᏲᎱᏎᎵ 150 ᏯᏂᎢ ᎡᏔ ᏥᎨᏒ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ᎣᏣᏁᎶᏗ ᎢᎦᎢᏊ ᎨᏒ ᏣᎳᎩ ᎠᏂᏬᏂᏍᎩ ᏳᎾᎵᏍᏙᏗ ᎠᎴ ᏩᎦᎸᎳᏗᏴ ᎢᎬᏩᎵᏍᏙᏗ ᎨᏒᎢ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎠᏂᏫᏒᏍᎩ ᏧᎾᏕᎶᏆᏍᏗ ᏗᎾᏕᎶᏆᏍᎩ ᎾᏍᎩ ᎨᎨᏲᎲᏍᎪ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᎢᎬᏱ ᎢᏊ ᏳᎾᎴᏅᎯ ᏓᎾᏕᎶᏆᏍᎬᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>“ᏙᎦᏚᎵ ᎢᎬᏱ ᏣᎳᎩ ᎠᏂᏬᏂᏍᎩ,” ᎠᏗᏍᎬ Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>“ᏝᏃ ᎪᎱᏍᏗ ᏲᏤᎵ ᎩᎶ ᏔᎵ ᎢᏧᏓᎴ ᏗᎦᏬᏂᏍᎩ ᏱᎩ, ᎠᏎᏃ ᏌᏊ ᎨᏒ ᎾᏍᎩ ᏣᎳᎩ ᎦᏬᏂᏍᎩ ᎢᏳᎵᏍᏙᏗ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ᏝᏃ ᏱᎦᏚᎵ ᎾᎿ ᎢᎴᎯᏳ ᎠᎭᏂ ᎡᎶᎯ ᎾᏍᎩ ᎢᎬᏱ ᏣᎳᎩ ᎠᏂᏬᏂᏍᎩ ᎾᏁᎲᎾ ᎢᏳᎵᏍᏙᏗᎢ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ᎾᏍᎩᏃ ᎦᏬᏂᎯᏍᏗ ᎠᏰᏟ ᏧᏙᏢ ᏚᏃᏍᏔᏅ ᎾᏍᎩ ᎦᏬᏂᎯᏍᏗ ᎤᎦᏙᎲᏒᎯ Durbin Feeling, ᎠᎦᏅᏛ ᏂᎪᎯᎸ ᎢᎦᏎᏗ ᎠᎴ ᎠᎵᏍᎪᎸᏗᏍᎩ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Feeling ᎤᏲᎱᏒ ᎾᎿ August 2020 74 ᎢᏳᏕᏘᏴᏓ ᎨᏒᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ᏚᎾᏓᏙᎵᏤᎸᏃ ᎾᎿ ᎠᏂᎾᏍᏓᏢᎢ, Feeling ᎤᏬᏪᎳᏅ ᏣᎳᎩ ᏗᎧᏁᎢᏍᏗ ᏗᎪᏪᎵ, ᏫᏗᎪᏪᎵ ᎾᎿ ᏗᎪᏪᎶᏙᏗ ᎧᏁᎢᏍᏗ ᏚᏃᏴᎬ ᎾᏍᎩ 1980’s ᏧᏚᏕᏘᏴᏌᏗᏒᎢ, ᎠᎴ ᏚᏬᏢᏁ ᏍᎪᎯᏧᏈ ᏗᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏗᏕᏲᏙᏗ ᏗᎪᏪᎵ ᎠᎴ ᎤᎴᏅᎮ ᏫᏗᎪᏪᎵᏍᎬ ᏣᎳᎩ ᏗᎧᏁᎢᏍᏗ ᎾᎿ Unicode, ᎾᏍᎩ ᎪᎯ ᏥᎩ ᎠᎵᏍᎪᎸᏗᏍᎪ smartphones ᎤᎾᎵᏍᎪᎸᏙᏗ ᏚᏃᏴᎬ ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏗᎪᏪᎶᏙᏗ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ᎾᎿ 2019, ᎾᏍᎩ ᏣᎳᎩ ᎠᏰᎵ ᎠᏂᎳᏍᏓᏢ ᏗᏂᎳᏫᎩ ᎤᏂᎶᎯᏍᏔᏅ Durbin Feeling ᏚᏙᎥ ᎤᎾᎵᏏᏅᏙᏗ ᎠᎴ ᎤᏂᏗ 16 million ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, 5 million ᎾᏍᎩ ᎠᏎᎸ ᎾᎿ ᎢᏤ ᎦᏬᏂᎯᏍᏗ ᎤᏙᏢᏒᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ᎣᎦᏚᎵ ᎯᎠ ᏂᎦᏓ ᎤᏅᏙᏗ ᎾᏂᎥᎢ,” ᎠᏗᏍᎬ Paden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>“ᎣᎩᎭ ᎦᏬᏂᎯᏍᏗ ᎢᏤ ᎠᎦᏙᎲᏒᎢ---ᏙᏦᏢᏍᎪ cartoons, ᎠᎴ ᏙᏦᏢᏍᎦ appsᎢ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ᎠᏎᎮᏅ ᎥᎩᏲᎯᏍᏗ ᎦᏬᏂᎯᏍᏗ ᎾᎿ ᎯᎠ ᎤᏕᏘᏴᏌᏗᏒ ᏙᎯᏳᎢ, ᎠᏎᏅ ᎢᎩᏍᏆᏂᎪᏙᏗ ᎤᏘᏱᏙᎸᎢ……… ᎯᎠ ᏳᏍᏗᏓᏂ ᎢᎪᎯᏳᏐ ᎾᏍᎩ  ᎢᏗᏣᎳᎩ ᎢᏗᏴᏫ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ᎾᏍᎩᏃ ᎭᏫᎾᏗᏢ ᎢᎩᏬᏂᎯᏍᏗ ᎠᎴ ᎢᎦᏤᎵ ᎠᏂᏴᏫ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ᎢᏳᏃ ᎾᏍᎩ ᏱᏂᎦᏛᏁᎵ, ᏂᎪᎯᎸ ᎢᏗᏣᎳᎩ ᎨᏎᏍᏗ.”</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

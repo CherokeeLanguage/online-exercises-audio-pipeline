@@ -1,0 +1,11 @@
+{
+  "audio_source": "language center cherokee.mp3",
+  "annotations": "language center cherokee.txt",
+  "english_audio_source": "language center english.mp3",
+  "english_annotations": "language center english.txt",
+  "terms": "language center terms.csv",
+  "term_format": "SIMPLE",
+  "collection_title": "Language Hub",
+  "collection_id": "phoenix-lanugage-hub",
+  "phonetic_orthography": "WEBSTER"
+}

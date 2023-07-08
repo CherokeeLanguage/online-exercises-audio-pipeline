@@ -1,0 +1,35 @@
+default		700	7836	7136	A multi-million-dollar effort to transform a former casino into the Cherokee Nation’s new language hub is expected to wrap up later this year.
+default		7836	16020	8184	Barring unforeseen setbacks, construction and renovation should be completed by Labor Day weekend, according to Language Department Executive Director Howard Paden.
+default		16020	21040	5020	“So we may be looking at opening up sometime in October, a lot faster than what I thought,” Paden said.
+default		21040	22580	1540	“This is incredible.”
+default		22580	27903	5323	Construction of the $5 million Durbin Feeling Language Center in Tahlequah began in May 2021.
+default		27903	34114	6211	New wings have been added to each side of the building, doubling the space for a total of more than 50,000 square feet.
+default		34114	42380	8266	Once expansion and remodeling of the former Cherokee Casino-Tahlequah building is complete, the tribe will place all of its language-related programs under one roof.
+default		42380	46450	4070	“About everything that will happen with language revitalization will be here,” Paden said.
+default		46490	48450	1960	“We’ll obviously have translation.
+default		48510	50060	1550	We’ll have master-apprentice.
+default		50060	51559	1499	We’ll have the immersion school.
+default		51810	56870	5060	Those are big programs, but there are several small programs that will also be nestled within these walls.”
+default		57710	65860	8150	The immersion school, called ᏣᎳᎩ ᏧᎾᏕᎶᏆᏍᏗ (Tsalagi Tsunadeloquasdi), has grown to more than 100 students in grades pre-K through eighth grade, according to the tribe.
+default		65866	73630	7764	The curriculum is Oklahoma Department of Education grade-level standards, but instruction is taught exclusively in the Cherokee language, both written and spoken.
+default		73670	76790	3120	The Sequoyah syllabary is used for all print materials.
+default		76790	83750	6960	Former immersion school student Ethan Winn, now 21, was impressed with the language center even in its construction phase.
+default		83750	88540	4790	“It means a lot, the thought they’re putting into this to make it all Cherokee,” he said.
+default		88540	95430	6890	“Here, it means so much to see there is going to be essentially a whole new generation that’s going to grow up knowing how to be Cherokee.”
+default		95430	103831	8401	An important goal for Paden and other language advocates is creating new speakers either through the CN’s master-apprentice program or at the immersion school.
+default		103831	107134	3303	“There’s less than 2,000 speakers,” Paden said.
+default		107134	109360	2226	“We lost 150 of them last year.
+default		109440	113390	3950	We’re trying to build as many speakers as we can and to the highest level.”
+default		113390	117310	3920	Immersion school students are introduced to the Cherokee language at an early age.
+default		117740	120180	2440	“We want first-language speakers,” Paden said.
+default		120180	125670	5490	“Now that doesn’t mean that we don’t mind somebody having two first languages, but one of them has to be Cherokee.
+default		125670	129404	3734	We never want a time on this earth there’s not a first-language Cherokee speaker.”
+default		129800	137310	7510	The language center is named after the late linguist Durbin Feeling, widely considered the greatest modern contributor to the preservation of the Cherokee language.
+default		137310	140384	3074	Feeling died in August 2020 at age 74.
+default		140650	155640	14990	According to the tribe, Feeling wrote the Cherokee dictionary, added the syllabary on a word processor in the 1980s, developed hundreds of Cherokee language teaching materials and started the process to add the Cherokee language on Unicode, which today allows smartphones to offer the syllabary.
+default		156000	166600	10600	In 2019, the CN Tribal Council passed the Durbin Feeling Preservation Act to invest $16 million in the Cherokee language, $5 million of which was earmarked for the new language center.
+default		166940	169880	2940	“We want this accessible to everybody,” Paden said.
+default		169990	173980	3990	“We have language technology – we’re making cartoons, we’re making apps.
+default		174020	180810	6790	We’ve got to bring the language into this century by all means, but to keep the remnants of … these sort of philosophies that we have as Cherokee people.
+default		180850	184920	4070	It has to still be within our language and it has to be within our people.
+default		184920	187663	2743	If we do that, we will always be Cherokee.”

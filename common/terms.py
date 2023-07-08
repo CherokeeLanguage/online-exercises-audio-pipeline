@@ -35,5 +35,4 @@ def read_terms_for_dataset(dataset: DatasetMetadata):
         ):
             if row == {}:
                 continue
-
             yield TermRow(**row)
