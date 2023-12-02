@@ -1,0 +1,9 @@
+{
+  "audio_source": "john ross dagsi utan.mp3",
+  "annotations": "john ross dagsi utan.txt",
+  "terms": "John Ross - Dagsi Utan.terms.csv",
+  "term_format": "SIMPLE",
+  "collection_title": "John Ross tells 'Daksi Utana'",
+  "collection_id": "cvcs-jr-daksi-utan",
+  "phonetic_orthography": "WEBSTER"
+}
