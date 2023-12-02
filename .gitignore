@@ -9,3 +9,9 @@ data/jw-conjugations/Bathing & Digging.wav
 # cache for English TTS 
 cache
 card_audio
+
+# data that isn't public
+# user data used by scripts
+user-*.json
+whole-db.json
+Cherokee Dictionary (w_ MDS) - Dictionary.csv
