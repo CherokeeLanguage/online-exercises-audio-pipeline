@@ -1,1 +1,36 @@
-{"id": "jw-conjugations", "title": "Full conjugations", "sets": [{"id": "jw-conjugations:Bathing (present)", "title": "Bathing (present)", "terms": ["ga²da²wo³³ʔa", "o¹¹sda²da²wo³³ʔa", "o¹¹tsa²da²wo³³ʔa", "i²²na²da²wo³³ʔa", "i¹¹da²da²wo³³ʔa", "ha²da²wo³³ʔa", "sda²da²wo³³ʔa", "i²²tsa²da²wo³³ʔa", "a²da²wo³³ʔa", "a²na²da²wo³³ʔa"]}, {"id": "jw-conjugations:Bathing (completed)", "title": "Bathing (completed)", "terms": ["a¹¹gwa²da²wo³³Ɂv²³Ɂi", "o¹¹gi²na²da²wo³³Ɂv²³Ɂi", "o¹¹ga²da²wo³³Ɂv²³Ɂi", "tsa²da²wo³³Ɂv²³Ɂi", "sda²da²wo³³Ɂv²³Ɂi", "i²²tsa²da²wo³³Ɂv²³Ɂi", "gi²na²da²wo³³Ɂv²³Ɂi", "i¹¹ga²da²wo³³Ɂv²³Ɂi"]}]}
+{
+  "id": "jw-conjugations",
+  "title": "Full conjugations",
+  "sets": [
+    {
+      "id": "jw-conjugations:Bathing (present)",
+      "title": "Bathing (present)",
+      "terms": [
+        "ga²da²wo³³ʔa",
+        "o¹¹sda²da²wo³³ʔa",
+        "o¹¹tsa²da²wo³³ʔa",
+        "i²²na²da²wo³³ʔa",
+        "i¹¹da²da²wo³³ʔa",
+        "ha²da²wo³³ʔa",
+        "sda²da²wo³³ʔa",
+        "i²²tsa²da²wo³³ʔa",
+        "a²da²wo³³ʔa",
+        "a²na²da²wo³³ʔa"
+      ]
+    },
+    {
+      "id": "jw-conjugations:Bathing (completed)",
+      "title": "Bathing (completed)",
+      "terms": [
+        "a¹¹gwa²da²wo³³Ɂv²³Ɂi",
+        "o¹¹gi²na²da²wo³³Ɂv²³Ɂi",
+        "o¹¹ga²da²wo³³Ɂv²³Ɂi",
+        "tsa²da²wo³³Ɂv²³Ɂi",
+        "sda²da²wo³³Ɂv²³Ɂi",
+        "i²²tsa²da²wo³³Ɂv²³Ɂi",
+        "gi²na²da²wo³³Ɂv²³Ɂi",
+        "i¹¹ga²da²wo³³Ɂv²³Ɂi"
+      ]
+    }
+  ]
+}
