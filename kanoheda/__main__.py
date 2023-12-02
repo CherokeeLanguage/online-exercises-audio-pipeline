@@ -1,19 +1,20 @@
 import argparse
 import os
-import re
 from pathlib import Path
 
 from pydub import AudioSegment
 
 from common.annotations import read_annotations_tsv, read_annotations_tsv_from_path
+from common.online_exercises_structs import (
+    OnlineExercisesCard,
+    write_cards_json_for_dataset,
+)
 from common.structs import DatasetMetadata
 from common.terms import read_terms_for_dataset
 from generate_english_audio.generate_english_audio_for_deck import (
     generate_audio_for_voice,
 )
 from generate_english_audio.tts import AMZ_VOICES_FEMALE
-
-from match_audio.matching import get_matchable_audio_from_annotations
 
 
 def main(dataset_folder: Path):
@@ -44,6 +45,10 @@ def main(dataset_folder: Path):
 
     output_audio: AudioSegment = AudioSegment.empty()
 
+    # ensure we have a place to put audio
+    os.makedirs(dataset.audio_output_dir, exist_ok=True)
+    cards = []
+
     for term in terms:
         cherokee_annotation = next(
             (
@@ -66,19 +71,23 @@ def main(dataset_folder: Path):
             "Must have Cherokee audio for all terms: " + term.syllabary
         )
         cherokee_annotation.ensure_split_audio_exists(dataset, audio_source)
+        cherokee_sentence_audio_path = cherokee_annotation.split_audio_path(dataset)
         cherokee_sentence_audio: AudioSegment = AudioSegment.from_file(
-            cherokee_annotation.split_audio_path(dataset)
+            cherokee_sentence_audio_path
         )
 
         if english_annotation:
             english_annotation.ensure_split_audio_exists(dataset, english_audio_source)
-            english_sentence_audio: AudioSegment = AudioSegment.from_file(
-                english_annotation.split_audio_path(dataset)
-            )
+            english_sentence_audio_path = english_annotation.split_audio_path(dataset)
+
         else:
-            english_sentence_audio: AudioSegment = AudioSegment.from_file(
-                generate_audio_for_voice(voice=AMZ_VOICES_FEMALE[0], text=term.english)
+            english_sentence_audio_path = generate_audio_for_voice(
+                voice=AMZ_VOICES_FEMALE[0], text=term.english
             )
+
+        english_sentence_audio: AudioSegment = AudioSegment.from_file(
+            english_sentence_audio_path
+        )
 
         output_audio = (
             output_audio
@@ -94,6 +103,21 @@ def main(dataset_folder: Path):
             + cherokee_sentence_audio
             + AudioSegment.silent(1500)
         )
+
+        cards.append(
+            OnlineExercisesCard(
+                cherokee=cherokee_annotation.annotation_text,
+                syllabary=cherokee_annotation.annotation_text,
+                cherokee_audio=[str(cherokee_sentence_audio_path)],
+                alternate_pronunciations=[],
+                alternate_syllabary=[],
+                english=term.english.strip(),
+                english_audio=[str(english_sentence_audio_path)],
+                phoneticOrthography=dataset.phoneticOrthography,
+            )
+        )
+
+    write_cards_json_for_dataset(dataset, cards)
     output_audio.export("test.mp3", format="mp3", parameters=["-qscale:a", "0"])
 
 
