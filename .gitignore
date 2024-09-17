@@ -15,3 +15,4 @@ card_audio
 user-*.json
 whole-db.json
 Cherokee Dictionary (w_ MDS) - Dictionary.csv
+data/private/*
