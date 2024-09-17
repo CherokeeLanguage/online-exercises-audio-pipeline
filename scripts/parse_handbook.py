@@ -1,9 +1,20 @@
 from csv import DictWriter
+import json
 import re
+from typing import Dict
 import unicodedata
 
 
-def convertToJWTones(source: str):
+def convert_consonants(phonetics: str) -> str:
+    return (
+        phonetics.replace("t", "d")
+        .replace("dh", "t")
+        .replace("k", "g")
+        .replace("gh", "k")
+    )
+
+
+def convert_tones(source: str):
     # ¹²³⁴
     out = unicodedata.normalize("NFD", source)
     out = re.sub("([aeiouv])\u0301([aeiouv])\u0301", r"\1³³", out)
@@ -18,6 +29,8 @@ def convertToJWTones(source: str):
 
 
 def main():
+    # [verb][tense][person]
+    all_forms: Dict[str, Dict[str, Dict[str, str]]] = {}
     with open("handbook-verbs.txt") as f, open("handbook-verbs.csv", "w") as out:
         writer = DictWriter(
             out, ["verb", "person", "tense", "form", "form (JW)", "notes"]
@@ -40,11 +53,25 @@ def main():
                 verb = data
             else:
                 person, tense = label.split("-")
+                person = person.strip("\\")
+
                 if " " in data:
                     form, notes = data.split(" ", 1)
                 else:
                     form = data
                     notes = ""
+
+                if not verb:
+                    continue
+
+                jw_form = convert_consonants(convert_tones(form))
+
+                if verb not in all_forms:
+                    all_forms[verb] = {}
+                if tense not in all_forms[verb]:
+                    all_forms[verb][tense] = {}
+                if person not in all_forms[verb][tense]:
+                    all_forms[verb][tense][person] = jw_form
 
                 writer.writerow(
                     {
@@ -52,10 +79,12 @@ def main():
                         "person": person.strip("\\"),
                         "tense": tense,
                         "form": form,
-                        "form (JW)": convertToJWTones(form),
+                        "form (JW)": jw_form,
                         "notes": notes.strip(),
                     }
                 )
+
+    json.dump(all_forms, open("handbook-verbs.json", "w"), ensure_ascii=False)
 
 
 if __name__ == "__main__":
