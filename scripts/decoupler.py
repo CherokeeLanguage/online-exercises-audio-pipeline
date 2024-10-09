@@ -59,6 +59,7 @@ def annotate_and_convert_file(
         tags={
             "artist": artist,
             "album": album,
+            "track": nth_file + 1,
             "title": " - ".join(file.relative_to(root).parts),
         },
     )
