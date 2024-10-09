@@ -51,16 +51,22 @@ class VerbRow:
     source: str
     definition: str
     third_present: str
+    third_present_simple: str
     third_present_syllabary: str
     first_present: str
+    first_present_simple: str
     first_present_syllabary: str
     second_command: str
+    second_command_simple: str
     second_command_syllabary: str
     third_completive_past: str
+    third_completive_past_simple: str
     third_completive_past_syllabary: str
     third_incompletive_habitual: str
+    third_incompletive_habitual_simple: str
     third_incompletive_habitual_syllabary: str
     third_infinitive: str
+    third_infinitive_simple: str
     third_infinitive_syllabary: str
     sentence: SentenceRow
 
@@ -89,26 +95,34 @@ class VerbRow:
             source=clean_field(row["Source"]),
             definition=clean_field(row["Definition"]),
             third_present=clean_cherokee_field(row["Entry Tone"]),
+            third_present_simple=clean_cherokee_field(row["Entry"]),
             third_present_syllabary=clean_cherokee_field(row["Syllabary"]).upper(),
             first_present=clean_cherokee_field(row["Verb 1st Present (Tone)"]),
+            first_present_simple=clean_cherokee_field(row["Verb 1st Present"]),
             first_present_syllabary=clean_cherokee_field(
                 row["Verb 1st Present (Syllabary)"]
             ).upper(),
             third_completive_past=clean_cherokee_field(row["Verb 3rd Past (Tone)"]),
+            third_completive_past_simple=clean_cherokee_field(row["Verb 3rd Past"]),
             third_completive_past_syllabary=clean_cherokee_field(
                 row["Verb 3rd Past (Syllabary)"]
             ).upper(),
             third_incompletive_habitual=clean_cherokee_field(
                 row["Verb 3rd Present Habitual (Tone)"]
             ),
+            third_incompletive_habitual_simple=clean_cherokee_field(
+                row["Verb 3rd Present Habitual"]
+            ),
             third_incompletive_habitual_syllabary=clean_cherokee_field(
                 row["Verb 3rd Present Habitual (Syllabary)"]
             ).upper(),
             second_command=clean_cherokee_field(row["Verb 2nd Imperative (Tone)"]),
+            second_command_simple=clean_cherokee_field(row["Verb 2nd Imperative"]),
             second_command_syllabary=clean_cherokee_field(
                 row["Verb 2nd Imperative (Syllabary)"]
             ).upper(),
             third_infinitive=clean_cherokee_field(row["Verb 3rd Infinitive (Tone)"]),
+            third_infinitive_simple=clean_cherokee_field(row["Verb 3rd Infinitive"]),
             third_infinitive_syllabary=clean_cherokee_field(
                 row["Verb 3rd Infinitive (Syllabary)"]
             ).upper(),
@@ -127,11 +141,12 @@ def read_verbs():
 
         for row in reader:
             try:
-                if row["PoS"] not in ("vt", "v", "vi"):
-                    continue
+                # if row["PoS"] not in ("vt", "v", "vi"):
+                #     continue
 
                 verb_row = VerbRow.from_row(row)
-                if verb_row.has_all_fields():
+                # if verb_row.has_all_fields():
+                if True:
                     yield verb_row
             except:
                 print("Error reading row", row["Index"], row["Entry"])
@@ -142,7 +157,7 @@ COLORS = ["magenta", "red", "blue", "green"]
 
 def main():
     sentences = {row.index: asdict(row) for row in read_verbs()}
-    json.dump(sentences, open("dict_verbs.json", "w"), ensure_ascii=False)
+    json.dump(sentences, open("dict_large.json", "w"), ensure_ascii=False)
 
 
 if __name__ == "__main__":
