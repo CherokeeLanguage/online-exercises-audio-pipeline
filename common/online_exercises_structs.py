@@ -1,6 +1,7 @@
 from dataclasses import asdict, dataclass
 from enum import Enum
 import json
+from pathlib import Path
 from typing import Dict, List
 
 from .structs import DatasetMetadata, PhoneticOrthography
@@ -55,11 +56,15 @@ def read_cards_for_dataset(dataset: DatasetMetadata) -> List[OnlineExercisesCard
     return cards
 
 
+def write_cards_json(cards: List[OnlineExercisesCard], target: Path) -> None:
+    with open(target, "w") as f:
+        json.dump([term.toDict() for term in cards], f, ensure_ascii=False)
+
+
 def write_cards_json_for_dataset(
     dataset: DatasetMetadata, cards: List[OnlineExercisesCard]
 ):
-    with open(dataset.cards_json, "w") as f:
-        json.dump([term.toDict() for term in cards], f, ensure_ascii=False)
+    write_cards_json(cards, dataset.cards_json)
 
 
 def export_terms_to_json(

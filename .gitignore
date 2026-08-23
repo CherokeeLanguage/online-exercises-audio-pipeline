@@ -2,14 +2,24 @@
 .DS_Store
 __pycache__
 
-# too large for github
-data/jw-living-phrases/Living Phrases.wav
-data/jw-conjugations/Bathing & Digging.wav
+# audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.wma
+*.zip
+card_audio/
+**/card_audio/
+split_audio/
+**/split_audio/
+wav_output/
+data/sentence_audio_wav/
 
 # cache for English TTS 
 cache
-card_audio
-split_audio
 
 # data that isn't public
 # user data used by scripts
