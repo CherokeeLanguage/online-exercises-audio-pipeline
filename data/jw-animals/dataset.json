@@ -1,0 +1,9 @@
+{
+  "audio_source": "animals and attributes denoised.wav",
+  "annotations": "animals and attributes denoised.txt",
+  "annotation_format": "CHEROKEE_NONEMPTY",
+  "terms": "",
+  "collection_title": "JW Webster's Animals and Attributes",
+  "collection_id": "jw-animals",
+  "phonetic_orthography": "WEBSTER"
+}

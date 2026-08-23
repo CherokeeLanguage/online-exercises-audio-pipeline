@@ -1,0 +1,241 @@
+default		1707	2820	1113	utsiya
+default		6355	8206	1851	andansindohoi
+default		9439	11853	2414	andansindohoi (fast)
+default		14904	17154	2250	gihli geyatahi
+default		18010	21030	3020	gihli gehyatahi
+default		24157	26104	1947	anehluhvsgoi
+default		27731	29430	1699	anehluhvsgoi fast
+default		34545	36277	1732	tsuganots
+default		37538	39049	1511	tsuganots slow
+default		42365	45354	2989	degalaya'didegoi
+default		46829	49204	2375	degalaya'didegoi
+default		52515	53846	1331	taldu
+default		53846	55748	1902	taldu
+default		56646	58793	2147	
+default		58793	62813	4020	taldu yuniwedv
+default		64080	66141	2061	taldu yuniwedv 2
+default		69749	71806	2057	ukshotsanedv
+default		73542	75365	1823	ukshotsanedv 2
+default		79054	80452	1398	tali
+default		80452	82527	2075	itsudaidv
+default		82527	88635	6108	dininvsati ta'li itsudaidv
+default		88635	91536	2901	dininvsati
+default		94147	97073	2926	sihgwa tsuhdena
+default		97073	99348	2275	sihgwa tsuhdena fast
+default		99348	102190	2842	
+default		102190	105033	2843	danindohgi
+default		105033	106798	1765	danindohgi
+default		108024	110948	2924	
+default		110948	112028	1080	
+default		112028	114245	2217	unliyedisgoi
+default		114245	116478	2233	unliyedisgoi (faster)
+default		118639	119865	1226	guhgwe
+default		121241	122383	1142	guhgwe
+default		125765	127164	1399	diniyanuli
+default		128190	129474	1284	diniyanuli 2
+default		130774	132113	1339	
+default		132113	134925	2812	tsudikwsdi
+default		134925	137882	2957	tsudikwsdi 2
+default		141194	142639	1445	tsugidahli
+default		143554	144940	1386	tsugidahli 2
+default		148242	149683	1441	sgwadula
+default		151200	152435	1235	sgwadula 2
+default		156382	157954	1572	
+default		157954	160954	3000	aninohalidoha
+default		162158	164483	2325	aninohalidoha
+default		166749	170230	3481	
+default		170230	172012	1782	kayvsegwa
+default		172012	174475	2463	kayvsegwa 2
+default		182186	185015	2829	sagwu uhlgi
+default		187731	190243	2512	sagwu uhlgi 2
+default		194822	198660	3838	tlvdatsi tsusgwagahli
+default		202339	206218	3879	tlvdatsi tsusgwagahli
+default		210002	212523	2521	aninolisoi
+default		213470	215494	2024	aninolisoi fast
+default		219431	223230	3799	tlvdatsi tsulohldi
+default		224909	228155	3246	tlvdatsi tsulohldi fast
+default		228155	230881	2726	
+default		230881	232314	1433	tsulohldi
+default		233280	234341	1061	tsulohldi
+default		238906	240056	1150	tlvdatsi
+default		241378	242475	1097	tlvdats
+default		242475	244406	1931	tlvdats 2
+default		247141	248668	1527	ganayegi
+default		248668	250885	2217	ganayegi 2
+default		252345	253748	1403	
+default		253748	255307	1559	tlvdatsi lion
+default		256836	258034	1198	tlvdatsi lion 2
+default		259090	260261	1171	tlvdats lion
+default		262745	265205	2460	sday naniwesgoi
+default		266762	269161	2399	sday naniwesgoi 2
+default		273444	277105	3661	tlvdatsi unvtsati
+default		278485	282245	3760	tlvdatsi unvtsati 2
+default		283593	285631	2038	tlvdats unvtsati
+default		288704	290335	1631	unayehisdi
+default		291088	292531	1443	unayehisdi 2
+default		297652	299746	2094	kwandahyohi
+default		300378	301771	1393	kwandahyohi 2
+default		308996	311232	2236	andisgatlvsgoi
+default		312442	314434	1992	andisgatlvsgoi
+default		318249	321210	2961	dehlgv tsutana
+default		321997	324433	2436	dehlgv tsutana 2
+default		326790	328453	1663	udawadisgv
+default		328453	330965	2512	udawadisgv 2
+default		335027	336650	1623	awo'hali
+default		337903	339221	1318	awo'hali 2
+default		345212	354870	9658	odalv galvladi danahnesdatlvsgoi awo'hali
+default		355792	370280	14488	odalv galvladi danahnesdatlvsgoi awo'hali 2
+default		373530	374540	1010	atsina
+default		375536	376989	1453	atsina 2
+default		383490	389826	6336	atsina ganelv gadoh atalesvi
+default		390520	396481	5961	atsina ganelv gadoh atalesvi 2
+default		399891	403285	3394	sogwili tsulohldi
+default		404638	406969	2331	sogwili tsulohldi 2
+default		409838	414844	5006	unegv ale gvhnagei
+default		416800	421593	4793	unegv ale gvhnagei 2
+default		424386	426447	2061	
+default		426447	428546	2099	ahyvtsanvhidv
+default		430951	432701	1750	ahyvtsanvhid
+default		432701	435600	2899	ahyvtsanvhid 2
+default		437954	440660	2706	inigati
+default		440660	442983	2323	inigati 2
+default		446805	448566	1761	sigwh uduhi
+default		449517	451116	1599	sigwh uduhi
+default		454577	456670	2093	unihyolusoi
+default		457599	459411	1812	unihyolusoi 2
+default		463455	466574	3119	adahyvsgiyisgi
+default		467755	470352	2597	adahyvsgiyisgi 2
+default		474835	477150	2315	dantlvihoi
+default		477150	479083	1933	dantlvihoi
+default		481662	483525	1863	galogedisdi
+default		485942	487761	1819	galogedisdi
+default		491589	502099	10510	igadv ansuhnidohi galogedisdi dandisgo yunsuhna
+default		502850	510171	7321	igadv ansuhnidohi galogedisdi dandisgo yunsuhna 2
+default		512883	515083	2200	damahg
+default		515780	517790	2010	damahg 2
+default		522210	528010	5800	damahg sday adasgahlgoi
+default		528010	532580	4570	damahg sday adasgahlgoi 2
+default		537694	539124	1430	tsuhga
+default		540772	542082	1310	tsuhga 2
+default		550422	556043	5621	tsuhgas dihisdohdi tsaneha
+default		556831	561020	4189	tsuhgas dihisdohdi tsaneha 2
+default		564080	565728	1648	tolatsgw
+default		566670	567888	1218	tolatsgw
+default		574326	581819	7493	gogi yinulstan tsgwisd tolatsgw digohwtvhdiyi
+default		581819	589871	8052	gogi yinulstan tsgwisd tolatsgw digohwtvhdiyi 2
+default		593360	597216	3856	tsuhlgegwa unodena
+default		598176	601780	3604	tsuhlgegwa unodena 2
+default		606194	607980	1786	duhlga
+default		609268	610805	1537	duhlga fast
+default		613129	614137	1008	kamama
+default		614137	616167	2030	kamama 2
+default		622415	624486	2071	uhnasgwadohnidena
+default		625311	627568	2257	uhnasgwadohnidena 2
+default		633378	639360	5982	kamama aneyatahi dunihyoha
+default		640472	644620	4148	kamama aneyatahi dunihyoha 2
+default		647362	648789	1427	wasotl
+default		649936	651662	1726	wasotl
+default		655039	657062	2023	duhyada'dv
+default		657762	659110	1348	duhyada'dv
+default		662592	664809	2217	gahlgwog
+default		664809	666588	1779	gahlgwog
+default		671566	674632	3066	dihyugwenugisati
+default		675349	677962	2613	dihyugwenugisati 2
+default		682932	687480	4548	ikshi digasagwaletlidohi
+default		687986	691571	3585	ikshi digasagwaletlidohi 2
+default		692504	694218	1714	
+default		694218	698607	4389	ikshi danisgwangodisgo
+default		698607	701895	3288	ikshi danisgwangodisgo 2
+default		704319	706764	2445	tsisdvn adatsvhysg
+default		707584	710756	3172	tsisdvn adatsvhysg 2
+default		713538	715764	2226	danitsvysgoi
+default		715764	718552	2788	danitsvysgoi
+default		721472	723180	1708	tsulasg
+default		723180	725242	2062	tsulasg
+default		728459	734753	6294	tsulasg usgahltsv hia asgaya
+default		735795	741487	5692	tsulasgi usgahltsv hia asgaya
+default		742412	743561	1149	
+default		743561	744790	1229	ahaw
+default		744790	746219	1429	ahaw 2
+default		750029	753941	3912	tsunihyona'didegoi
+default		753941	757236	3295	tsunihyona'didegoi 2
+default		759810	762248	2438	gvn utana
+default		762248	763891	1643	gvn utana 2
+default		767506	769680	2174	diniyanuli
+default		770795	772379	1584	diniyanuli 2
+default		775519	777395	1876	tiyoha'li
+default		779305	780791	1486	tiyoha'li
+default		784111	786624	2513	uwatsgahlvi
+default		787585	789438	1853	uwatsgahlv
+default		790630	792178	1548	uwatsgahlv 2
+default		794336	796056	1720	tsegi tsisdu
+default		796056	798386	2330	tsegi tsisdu 2
+default		800350	802512	2162	andahnawsdisgo
+default		803536	806172	2636	andahnawsdisgoi
+default		807510	809429	1919	andahnawsdisgoi 2
+default		811631	813032	1401	gug
+default		813032	814295	1263	gug 2
+default		817324	821016	3692	sday agohwtvhdi gesoi
+default		821016	825193	4177	sday agohwtvhdi gesoi 2
+default		828782	833960	5178	gugu degayodesdiha gihli
+default		834541	839237	4696	gugu degayodesdiha gihli 2
+default		843292	846479	3187	ahnesgihlvsgi
+default		847459	849576	2117	ahnesgihlvsgi 2
+default		852262	853934	1672	uwuyatv
+default		854395	855719	1324	uwuyatv 2
+default		859733	860774	1041	dos
+default		861312	862416	1104	dos 2
+default		865859	868241	2382	anadehtohdisgo
+default		869059	870895	1836	anadehtohdisgo 2
+default		873252	874546	1294	tvhga
+default		875294	876091	797	tvhga 2
+default		880212	886782	6570	gohusdi ungosidv dansvhvsgoi
+default		887533	892003	4470	gohusdi ungosidv dansvhvsgoi 2
+default		895318	897604	2286	uninsa'
+default		897604	900043	2439	uninsa' 2
+default		904232	907221	2989	danohlvhisanvhvsgi
+default		908266	910911	2645	danohlvhisanvhvsgi 2
+default		914370	915797	1427	wadaduga
+default		916530	917993	1463	wadaduga 2
+default		925091	931712	6621	vdali nav aninohilidoho wadaduga
+default		932171	939063	6892	vdali nav aninohilidoho wadaduga slow
+default		941923	943594	1671	tsudahkanisd
+default		943594	945094	1500	tsudahkanisd 2
+default		949054	951904	2850	andadelistanidohoi
+default		952766	955677	2911	andadelistanidohoi 2
+default		959023	960286	1263	tohga
+default		960979	962055	1076	tohga 2
+default		966613	969754	3141	dandahlikwadesidohoi
+default		970449	972805	2356	dandahlikwadesidohoi 2
+default		975956	977507	1551	kantsisdets
+default		978752	980531	1779	kantsisdetsi
+default		985315	991139	5824	gayesatv uwatsvhyv kantsisdetsi
+default		991937	997919	5982	gayesatv uwatsvhyv kantsisdetsi 2
+default		1001488	1003265	1777	adolanvsdi
+default		1004129	1005882	1753	adolanvsdi 2
+default		1010494	1014443	3949	gansd iyusdi atselvsgoi
+default		1014876	1017856	2980	gansd iyusdi atselvsgoi 2
+default		1020516	1022033	1517	wadulisi
+default		1023700	1024924	1224	wadulis 
+default		1025460	1027050	1590	wadulis 2
+default		1036842	1045170	8328	wadulis danotlvsgoi na waduli digahyesdi
+default		1046297	1053528	7231	wadulis danotlvsgoi na waduli digahyesdi 2
+default		1058508	1060341	1833	utsisdalugi
+default		1060839	1062490	1651	utsisdalugi 2
+default		1066036	1069113	3077	duhltistanvhvsgoi
+default		1070460	1073245	2785	duhltistanvhvsgoi 2
+default		1075704	1077347	1643	galuhysdi
+default		1078536	1080084	1548	galuhysdi 2
+default		1087346	1099240	11894	tsudanvgalvd nidowanvna yigi ditsesdo galuhsdi yanakilv'vga
+default		1100152	1111076	10924	tsudanvgalvd nidowanvna yigi ditsesdo galuhsdi yanakilv'vga 2
+default		1113996	1115628	1632	unitsiya
+default		1120240	1126488	6248	gadohi anahlinigohisdisgoi
+default		1127337	1132173	4836	gadohi anahlinigohisdisgoi 2
+default		1135476	1137038	1562	tina
+default		1137038	1138357	1319	tina 2
+default		1142918	1147916	4998	tinana ankilvdisgvi na agehyutsa
+default		1149050	1153898	4848	tina anakilvdisgv'i na agehyutsa
+default		1156524	1158029	1505	digahyesgi
+default		1158880	1160891	2011	digahyesgi 2
+default		1164745	1170051	5306	nikv gahltsode ahidi geso ahwatvhdiyi
+default		1170701	1176855	6154	nikv gahltsode ahidi geso ahwatvhdiyi 2
