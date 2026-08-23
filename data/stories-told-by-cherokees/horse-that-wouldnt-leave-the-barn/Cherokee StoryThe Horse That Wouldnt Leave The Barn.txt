@@ -1,0 +1,110 @@
+chr		70	5025	4955	sogwili tla yudulisge unago'isdi sogwili uniyvsdi'i
+chr		6330	11488	5158	gohigv tsigesv sogwili otsinatla'v usdi dudo'v
+chr		12153	14302	2149	usdi sogwili gesv'i
+chr		14302	17534	3232	iga udanti gesv
+chr		17534	22815	5281	nani'vgwu kilo unadulisgv unakilvdodi hi'a sogwili
+chr		23435	29731	6296	asehno iga uwasa gvkilvdodi gesv
+chr		29731	38660	8929	yitsaduli hiyakilvdodi usv yig tla eli yiganvgo [yigananugo] gesv sogwili uniyvsdiyi
+chr		38660	46141	7481	igawu gesv hyanehlda gesv tla eli yiganvgo gesv'i
+chr		46989	50244	3255	ayehligwu iyv iga ganida'dv
+chr		50244	67175	16931	Nasgihno iyusdi ogadlanvdadehv gogi yigi sogwili uniyvsdi na'v yedo'a usdi otsego ale tvhgi dotsidehiho yigvwadetohda
+chr		67175	76300	9125	sgwalahno ganida'dv tla uwasa degvwakehidasdi yigesi tvhgi gvwalidohv'i
+chr		76419	83800	7381	sagwu iga otsatvdvhnv elisi ntsulsdohtanv sgwala ganida'dv'i
+chr		83943	87632	3689	nigadvhno oginoselv'i
+chr		87632	94741	7109	ogiduda uhyanvhe usdi nasgi aginagwu gese'i
+chr		94741	99738	4997	nasgihno nitsulsdohtane usdi duno'e'i
+chr		99738	110205	10467	ale eli iyv yudetiyvdv nulstane unisinahvstane akilvdohdi nulstane'i
+chr		110205	117830	7625	nasgihno edutsi awinutsa gese iga edolidohi gese
+chr		117830	128713	10883	Ale Usdi eligwu akilvdodi nulstane, hatlvgwu yuwena, nasgi usdi akilvdisge'i
+chr		129473	141630	12157	Gohigi tsigesv, digelisgi danindegv kilo tsuwenvsv ale yigi analsgisge'i ale daninogisge'i
+chr		141630	147800	6170	sagwu svhiyeyv unohehle dinalsgisgv dayesisv'i
+chr		148101	155392	7291	Digvdihwisdi Amayi sgadugi anoseho'i
+chr		155392	161383	5991	iyuhno yinadeyoli nvnohi tso'iha yutliloda gese'i
+chr		161383	169454	8071	iyuhno tsiyuktvgwu inage yugalosa [yiwigalosa], otsadisgo, ta'liaha iyutliloda gese'i
+chr		169454	175455	6001	Igahno esgahni gese inage yugalosa [yiwigalosa]
+chr		175455	183375	7920	udvnv'istanehno uhnigisdi utanv ududa unohisele
+chr		183375	187282	3907	yidatsehlagwu yitsotlagwu kohi usv'i
+chr		187282	191553	4271	Tla osdv yigi edolidasdi kohi usv'i
+chr		191553	196219	4666	Edutsi uhnigise uwenvse'i
+chr		196219	201448	5229	Analsgisgvhno ulsgwada svnoyv ilvh(i)hlv gese
+chr		201448	205036	3588	Nogwu di'uhnigise edutsi
+chr		205036	208470	3434	Tlahno nvnohi yinudeyole
+chr		208470	213982	5512	Duwuktane tsiyukda inage nidayulohisdi'i
+chr		213982	225917	11935	
+chr		225917	232952	7035	
+chr		232952	237393	4441	
+chr		237393	243658	6265	
+chr		243658	271134	27476	
+chr		271134	281730	10596	
+chr		281730	287751	6021	
+chr		287751	308329	20578	
+chr		308329	313770	5441	
+chr		316121	323990	7869	
+chr		324074	327345	3271	
+chr		327345	335929	8584	
+chr		335929	348223	12294	
+chr		349394	356726	7332	
+chr		356726	371822	15096	
+chr		371822	379179	7357	
+chr		379179	383256	4077	
+chr		383256	390424	7168	
+chr		390424	397726	7302	
+chr		397726	405884	8158	
+chr		405884	410435	4551	
+chr		411284	417142	5858	
+chr		417142	423900	6758	
+chr		423908	428762	4854	
+chr		428762	436186	7424	
+chr		436186	442596	6410	
+chr		442596	451780	9184	
+chr		451805	462701	10896	
+chr		462701	469742	7041	
+chr		469742	477559	7817	
+chr		477559	486045	8486	
+chr		486045	492567	6522	
+chr		493352	499566	6214	
+chr		499566	502736	3170	
+chr		503443	510656	7213	
+chr		510656	517027	6371	
+chr		517027	525011	7984	
+chr		525011	529624	4613	
+chr		529624	534248	4624	
+chr		534964	546650	11686	
+chr		546878	550742	3864	
+chr		550742	553515	2773	
+chr		553515	563197	9682	
+chr		563197	571069	7872	
+chr		571069	586525	15456	
+eng		70	5025	4955	The horse doesn't want to leave the barn (horse stables)
+eng		6330	11488	5158	A while ago, we had a horse named 'Usdi'
+eng		12153	14302	2149	She was a small horse
+eng		14302	17534	3232	She was really nice
+eng		17534	22815	5281	Everybody wanted to ride this horse
+eng		23435	29731	6296	But only in the day was it possible to ride her
+eng		29731	38660	8929	If you wanted to ride her at night, it wouldn't be possible for her to come out of the barn
+eng		38660	46141	7481	No matter how hard you try, it isn't possible to get her out
+eng		46989	50244	3255	Her tail only comes half way.
+eng		50244	67175	16931	That's why when we had time in the summer and she was by the barn we'd go to her and swat the flies that were bothering her
+eng		67175	76300	9125	Since her tail was short, she couldn't swat [chase/go after] the flies that were climbing on her
+eng		76419	83800	7381	One day, we asked Grandma how it happened that her tail was short
+eng		83943	87632	3689	This is what she told us all
+eng		87632	94741	7109	Our grandpa got usdi when she was a young mere
+eng		94741	99738	4997	that's how it happened that they named her Usdi
+eng		99738	110205	10467	And when she got old enough they tamed her [made her resourceful] and able to be ridden.
+eng		110205	117830	7625	And when Uncle was a young man, he was really going around [a lot]
+eng		117830	128713	10883	And when Usdi became able to be ridden, whenever he went somewhere, he'd be riding Usdi
+eng		129473	141630	12157	A while ago, they'd have pie sales at someone's house, and maybe dances and sings.
+eng		141630	147800	6170	one night he [Uncle] said he was going to a dance
+eng		148101	155392	7291	It was what they call Hinton Community (across the creek).
+eng		155392	161383	5991	If you go around on the road, it is three miles
+eng		161383	169454	8071	If you go straight through the woods, we say, it's only two miles.
+eng		169454	175455	6001	It's really less to go through the woods.
+eng		175455	183375	7920	When he was ready to leave, Great Grandpa said this:
+eng		183375	187282	3907	It would be better if you just were at home tonight
+eng		187282	191553	4271	It isn't good to be going around tonight
+eng		191553	196219	4666	Uncle left and went
+eng		196219	201448	5229	When the dance was over, it was about midnight
+eng		201448	205036	3588	Then, Uncle left again
+eng		205036	208470	3434	He didn't go around on the road
+eng		208470	213982	5512	He decided to go straight through the woods
+eng		213982	225917	11935	
